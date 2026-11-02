@@ -1,0 +1,7 @@
+{
+  "endpoint": "POST /fc/gt2/public_key/<pk>",
+  "replay_original": {"status": 400, "body": {"error": "DENIED ACCESS"}},
+  "tamper_c_flip_byte": {"status": 400, "body": {"error": "DENIED ACCESS"}},
+  "garbage_c": {"status": 400, "body": {"error": "DENIED ACCESS"}},
+  "note": "All rejected; per-site binding blocks our origin, so BDA validation cannot be isolated. c is RSA-OAEP+AES-GCM encrypted (unreadable)."
+}

@@ -51,3 +51,14 @@ forged. Detail: [`ARKOSE_BREAK_2026_11_02.md`](ARKOSE_BREAK_2026_11_02.md).
   did not).
 - Good-vs-bad framing: a **good** design — real client crypto sealed to a server
   key + a challenge VM + per-site binding.
+
+## Wire / tamper / mint (what can we actually do?)
+
+- **See the wire?** No. `c` is the **encrypted BDA** (RSA-OAEP + AES-GCM); we
+  characterised the concatenated-base64 envelope but **not** the plaintext.
+- **Tamper?** We resubmitted the token request: original, a **flipped-byte `c`**,
+  and a **garbage `c`** — **all three → `400 {"error":"DENIED ACCESS"}`**
+  (`artifacts/tamper-result.json`). The per-site binding blocks our origin, so
+  BDA validation can't be isolated — but nothing we tampered was accepted.
+- **Mint?** No. A valid `c` requires the **per-site RSA public key** (reconstructed
+  at runtime inside the obfuscated VM); the token is server-issued.

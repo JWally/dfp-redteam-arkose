@@ -1,0 +1,1276 @@
+{
+  "pk": "2CB16598-CB82-4CF7-B332-5990DB66F3AB",
+  "hooks": [
+    {
+      "kind": "navigator",
+      "name": "userAgent",
+      "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "kind": "navigator",
+      "name": "platform",
+      "value": "Linux x86_64"
+    },
+    {
+      "kind": "navigator",
+      "name": "language",
+      "value": "en-US"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgent",
+      "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgent",
+      "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "kind": "fetch",
+      "url": "https://client-api.arkoselabs.com/v2/2CB16598-CB82-4CF7-B332-5990DB66F3AB/settings",
+      "body": null
+    },
+    {
+      "kind": "canvas",
+      "name": "getContext",
+      "type": "webgl"
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getSupportedExtensions",
+      "args": []
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        7937
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        7936
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        7938
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        35724
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        33902
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        33901
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        3413
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        3412
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        3414
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        3411
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        3410
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        3415
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getExtension",
+      "args": [
+        "[object String]"
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        34047
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        35661
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        34076
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        36349
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        34024
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        34930
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        3379
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        36348
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        34921
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        35660
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        36347
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        3386
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getExtension",
+      "args": [
+        "[object String]"
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        37445
+      ]
+    },
+    {
+      "kind": "webgl",
+      "name": "WebGLRenderingContext.getParameter",
+      "args": [
+        37446
+      ]
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgentData",
+      "value": "[object NavigatorUAData]"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgentData",
+      "value": "[object NavigatorUAData]"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgentData",
+      "value": "[object NavigatorUAData]"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgentData",
+      "value": "[object NavigatorUAData]"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgentData",
+      "value": "[object NavigatorUAData]"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgentData",
+      "value": "[object NavigatorUAData]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "navigator",
+      "name": "connection",
+      "value": "[object NetworkInformation]"
+    },
+    {
+      "kind": "screen",
+      "name": "pixelDepth",
+      "value": 24
+    },
+    {
+      "kind": "navigator",
+      "name": "deviceMemory",
+      "value": 32
+    },
+    {
+      "kind": "navigator",
+      "name": "languages",
+      "value": "[object Array]"
+    },
+    {
+      "kind": "navigator",
+      "name": "languages",
+      "value": "[object Array]"
+    },
+    {
+      "kind": "navigator",
+      "name": "languages",
+      "value": "[object Array]"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgent",
+      "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgent",
+      "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "kind": "navigator",
+      "name": "mediaDevices",
+      "value": "[object MediaDevices]"
+    },
+    {
+      "kind": "navigator",
+      "name": "webdriver",
+      "value": false
+    },
+    {
+      "kind": "navigator",
+      "name": "doNotTrack",
+      "value": null
+    },
+    {
+      "kind": "navigator",
+      "name": "language",
+      "value": "en-US"
+    },
+    {
+      "kind": "screen",
+      "name": "colorDepth",
+      "value": 24
+    },
+    {
+      "kind": "screen",
+      "name": "height",
+      "value": 900
+    },
+    {
+      "kind": "screen",
+      "name": "width",
+      "value": 1280
+    },
+    {
+      "kind": "screen",
+      "name": "width",
+      "value": 1280
+    },
+    {
+      "kind": "screen",
+      "name": "height",
+      "value": 900
+    },
+    {
+      "kind": "screen",
+      "name": "availWidth",
+      "value": 1280
+    },
+    {
+      "kind": "screen",
+      "name": "availHeight",
+      "value": 900
+    },
+    {
+      "kind": "screen",
+      "name": "availHeight",
+      "value": 900
+    },
+    {
+      "kind": "screen",
+      "name": "availWidth",
+      "value": 1280
+    },
+    {
+      "kind": "screen",
+      "name": "availWidth",
+      "value": 1280
+    },
+    {
+      "kind": "screen",
+      "name": "availHeight",
+      "value": 900
+    },
+    {
+      "kind": "navigator",
+      "name": "platform",
+      "value": "Linux x86_64"
+    },
+    {
+      "kind": "navigator",
+      "name": "platform",
+      "value": "Linux x86_64"
+    },
+    {
+      "kind": "canvas",
+      "name": "getContext",
+      "type": "2d"
+    },
+    {
+      "kind": "canvas2d",
+      "name": "fillText",
+      "args": [
+        "Cwm fjordbank glyphs vext quiz, 😃",
+        2,
+        15
+      ]
+    },
+    {
+      "kind": "canvas2d",
+      "name": "fillText",
+      "args": [
+        "Cwm fjordbank glyphs vext quiz, 😃",
+        4,
+        45
+      ]
+    },
+    {
+      "kind": "canvas",
+      "name": "toDataURL",
+      "len": 38966,
+      "head": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAADICAYAAA"
+    },
+    {
+      "kind": "screen",
+      "name": "width",
+      "value": 1280
+    },
+    {
+      "kind": "screen",
+      "name": "height",
+      "value": 900
+    },
+    {
+      "kind": "screen",
+      "name": "width",
+      "value": 1280
+    },
+    {
+      "kind": "screen",
+      "name": "height",
+      "value": 900
+    },
+    {
+      "kind": "screen",
+      "name": "availWidth",
+      "value": 1280
+    },
+    {
+      "kind": "screen",
+      "name": "availHeight",
+      "value": 900
+    },
+    {
+      "kind": "screen",
+      "name": "availWidth",
+      "value": 1280
+    },
+    {
+      "kind": "screen",
+      "name": "availHeight",
+      "value": 900
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgent",
+      "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "kind": "navigator",
+      "name": "platform",
+      "value": "Linux x86_64"
+    },
+    {
+      "kind": "navigator",
+      "name": "plugins",
+      "value": "[object PluginArray]"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgent",
+      "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "kind": "navigator",
+      "name": "productSub",
+      "value": "20030107"
+    },
+    {
+      "kind": "navigator",
+      "name": "appName",
+      "value": "Netscape"
+    },
+    {
+      "kind": "navigator",
+      "name": "appName",
+      "value": "Netscape"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgent",
+      "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "kind": "navigator",
+      "name": "plugins",
+      "value": "[object PluginArray]"
+    },
+    {
+      "kind": "navigator",
+      "name": "plugins",
+      "value": "[object PluginArray]"
+    },
+    {
+      "kind": "navigator",
+      "name": "plugins",
+      "value": "[object PluginArray]"
+    },
+    {
+      "kind": "navigator",
+      "name": "plugins",
+      "value": "[object PluginArray]"
+    },
+    {
+      "kind": "navigator",
+      "name": "plugins",
+      "value": "[object PluginArray]"
+    },
+    {
+      "kind": "navigator",
+      "name": "plugins",
+      "value": "[object PluginArray]"
+    },
+    {
+      "kind": "navigator",
+      "name": "plugins",
+      "value": "[object PluginArray]"
+    },
+    {
+      "kind": "navigator",
+      "name": "maxTouchPoints",
+      "value": 0
+    },
+    {
+      "kind": "navigator",
+      "name": "maxTouchPoints",
+      "value": 0
+    },
+    {
+      "kind": "navigator",
+      "name": "hardwareConcurrency",
+      "value": 12
+    },
+    {
+      "kind": "navigator",
+      "name": "hardwareConcurrency",
+      "value": 12
+    },
+    {
+      "kind": "navigator",
+      "name": "webdriver",
+      "value": false
+    },
+    {
+      "kind": "navigator",
+      "name": "webdriver",
+      "value": false
+    },
+    {
+      "kind": "navigator",
+      "name": "cookieEnabled",
+      "value": true
+    },
+    {
+      "kind": "audio",
+      "name": "constructor",
+      "ctor": "OfflineAudioContext",
+      "args": [
+        1,
+        44100,
+        44100
+      ]
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "mediaDevices",
+      "value": "[object MediaDevices]"
+    },
+    {
+      "kind": "navigator",
+      "name": "mediaDevices",
+      "value": "[object MediaDevices]"
+    },
+    {
+      "kind": "navigator",
+      "name": "mediaDevices",
+      "value": "[object MediaDevices]"
+    },
+    {
+      "kind": "speech",
+      "name": "getVoices",
+      "count": 0
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "battery",
+      "name": "getBattery",
+      "charging": true,
+      "level": 1
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "speech",
+      "name": "getVoices",
+      "count": 0
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "navigator",
+      "name": "permissions",
+      "value": "[object Permissions]"
+    },
+    {
+      "kind": "media",
+      "name": "enumerateDevices",
+      "count": 1,
+      "kinds": [
+        "audiooutput"
+      ]
+    },
+    {
+      "kind": "json.stringify.bda",
+      "keys": [
+        "api_type",
+        "f",
+        "n",
+        "wh",
+        "enhanced_fp",
+        "fe",
+        "ife_hash",
+        "jsbd",
+        "c"
+      ],
+      "text": "[{\"key\":\"api_type\",\"value\":\"js\"},{\"key\":\"f\",\"value\":\"1acbc1d154983391dd09ed60cc565093\"},{\"key\":\"n\",\"value\":\"MTc5NDU2OTg0NA==\"},{\"key\":\"wh\",\"value\":\"661818b1fecc1863892408a1d5b33de6|79169737225f825ee428975a81c22b8f\"},{\"key\":\"enhanced_fp\",\"value\":[{\"key\":\"webgl_extensions\",\"value\":\"ANGLE_instanced_arrays;EXT_blend_minmax;EXT_clip_control;EXT_color_buffer_half_float;EXT_depth_clamp;EXT_disjoint_timer_query;EXT_float_blend;EXT_frag_depth;EXT_polygon_offset_clamp;EXT_texture_compression_bptc;EXT_texture_compression_rgtc;EXT_texture_filter_anisotropic;EXT_texture_mirror_clamp_to_edge;EXT_sRGB;KHR_parallel_shader_compile;OES_element_index_uint;OES_fbo_render_mipmap;OES_standard_derivatives;OES_texture_float;OES_texture_float_linear;OES_texture_half_float;OES_texture_half_float_linear;OES_vertex_array_object;WEBGL_blend_func_extended;WEBGL_color_buffer_float;WEBGL_compressed_texture_astc;WEBGL_compressed_texture_etc;WEBGL_compressed_texture_etc1;WEBGL_compressed_texture_s3tc;WEBGL_compressed_texture_s3tc_srgb;WEBGL_debug_renderer_info;WEBGL_debug_shaders;WEBGL_depth_texture;WEBGL_draw_buffers;WEBGL_lose_context;WEBGL_multi_draw\"},{\"key\":\"webgl_extensions_hash\",\"value\":\"48fc6a044d17691891152ae0f6f290e6\"},{\"key\":\"webgl_renderer\",\"value\":\"WebKit WebGL\"},{\"key\":\"webgl_vendor\",\"value\":\"WebKit\"},{\"key\":\"webgl_version\",\"value\":\"WebGL 1.0 (OpenGL ES 2.0 Chromium)\"},{\"key\":\"webgl_shading_language_version\",\"value\":\"WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)\"},{\"key\":\"webgl_aliased_line_width_range\",\"value\":\"[1, 7.375]\"},{\"key\":\"webgl_aliased_point_size_range\",\"value\":\"[1, 255]\"},{\"key\":\"webgl_antialiasing\",\"value\":\"yes\"},{\"key\":\"webgl_bits\",\"value\":\"8,8,24,8,8,0\"},{\"key\":\"webgl_max_params\",\"value\":\"16,64,16384,1024,16384,32,16384,32,16,32,1024\"},{\"key\":\"webgl_max_viewport_dims\",\"value\":\"[16384, 16384]\"},{\"key\":\"webgl_unmasked_vendor\",\"value\":\"Google Inc. (Intel)\"},{\"key\":\"webgl_unmasked_renderer\",\"value\":\"ANGLE (Intel, Mesa Intel(R) UHD Graphics 630 (CML GT2), OpenGL ES 3.2)\"},{\"key\":\"webgl_vsf_params\",\"value\":\"23,127,127,23,127,127,23,127,127\"},{\"key\":\"webgl_vsi_params\",\"value\":\"0,31,30,0,31,30,0,31,30\"},{\"key\":\"webgl_fsf_params\",\"value\":\"23,127,127,23,127,127,23,127,127\"},{\"key\":\"webgl_fsi_params\",\"value\":\"0,31,30,0,31,30,0,31,30\"},{\"key\":\"webgl_hash_webgl\",\"value\":\"60de4806502f5301485dc00dd8bc2e82\"},{\"key\":\"user_agent_data_brands\",\"value\":\"Not=A?Brand,Google Chrome,Chromium\"},{\"key\":\"user_agent_data_mobile\",\"value\":false},{\"key\":\"navigator_connection_downlink\",\"value\":1.45},{\"key\":\"navigator_connection_downlink_max\",\"value\":null},{\"key\":\"network_info_rtt\",\"value\":100},{\"key\":\"network_info_save_data\",\"value\":false},{\"key\":\"network_info_rtt_type\",\"value\":\"48f60d\"},{\"key\":\"screen_pixel_depth\",\"value\":72},{\"key\":\"navigator_device_memory\",\"value\":32},{\"key\":\"navigator_languages\",\"value\":\"en-US,en\"},{\"key\":\"window_inner_width\",\"value\":1280},{\"key\":\"window_inner_height\",\"value\":900},{\"key\":\"window_outer_width\",\"value\":1288},{\"key\":\"window_outer_height\",\"value\":985},{\"key\":\"browser_detection_firefox\",\"value\":false},{\"key\":\"browser_detection_brave\",\"value\":false},{\"key\":\"9f41a2c\",\"value\":false},{\"key\":\"5c273b3\",\"value\":false},{\"key\":\"ce4046e\",\"value\":false},{\"key\":\"f58835f\",\"value\":\"7c4596d80092c12afd96265e493e7376\"},{\"key\":\"browser_object_checks\",\"value\":\"554838a8451ac36cb977e719e9d6623c\"},{\"key\":\"29s83ih9\",\"value\":\"68934a3e9455fa72420237eb05902327⁣\"},{\"key\":\"audio_codecs\",\"value\":\"{\\\"ogg\\\":\\\"probably\\\",\\\"mp3\\\":\\\"probably\\\",\\\"wav\\\":\\\"probably\\\",\\\"m4a\\\":\\\"maybe\\\",\\\"aac\\\":\\\"probably\\\"}\"},{\"key\":\"audio_codecs_extended_hash\",\"value\":\"805036349642e2569ec299baed02315b\"},{\"key\":\"video_codecs\",\"value\":\"{\\\"ogg\\\":\\\"\\\",\\\"h264\\\":\\\"probably\\\",\\\"webm\\\":\\\"probably\\\",\\\"mpeg4v\\\":\\\"\\\",\\\"mpeg4a\\\":\\\"\\\",\\\"theora\\\":\\\"\\\"}\"},{\"key\":\"video_codecs_extended_hash\",\"value\":\"5648501a58d24ea22ce3773cc234e563\"},{\"key\":\"media_query_dark_mode\",\"value\":false},{\"key\":\"f9bf2db\",\"value\":\"{\\\"pc\\\":\\\"no-preference\\\",\\\"ah\\\":\\\"hover\\\",\\\"ap\\\":\\\"fine\\\",\\\"p\\\":\\\"fine\\\",\\\"h\\\":\\\"hover\\\",\\\"u\\\":\\\"fast\\\",\\\"prm\\\":\\\"no-preference\\\",\\\"prt\\\":\\\"no-preference\\\",\\\"s\\\":\\\"enabled\\\",\\\"fc\\\":\\\"none\\\"}\"},{\"key\":\"headless_browser_phantom\",\"value\":false},{\"key\":\"headless_browser_selenium\",\"value\":false},{\"key\":\"headless_browser_nightmare_js\",\"value\":false},{\"key\":\"862f2c1\",\"value\":4},{\"key\":\"document__referrer\",\"value\":\"\"},{\"key\":\"window__ancestor_origins\",\"value\":[]},{\"key\":\"window__tree_index\",\"value\":[]},{\"key\":\"window__tree_structure\",\"value\":\"[]\"},{\"key\":\"window__location_href\",\"value\":\"http://127.0.0.1:39809/\"},{\"key\":\"client_config__sitedata_location_href\",\"value\":\"http://127.0.0.1:39809/\"},{\"key\":\"client_config__language\",\"value\":null},{\"key\":\"client_config__surl\",\"value\":\"https://client-api.arkoselabs.com\"},{\"key\":\"c8480e29a\",\"value\":\"165ee51d4a3e27bfeee660c40851de9f⁢\"},{\"key\":\"client_config__triggered_inline\",\"value\":false},{\"key\":\"mobile_sdk__is_sdk\",\"value\":false},{\"key\":\"z87b89t5\",\"value\":null},{\"key\":\"audio_fingerprint\",\"value\":\"124.04347527516074\"},{\"key\":\"navigator_battery_charging\",\"value\":true},{\"key\":\"7541c2s\",\"value\":\"eba8b0db4bf7d1f1bfb964d48f6c1784\"},{\"key\":\"1f220c9\",\"value\":\"4265a56c672d7e6aa6193578832fbe69\"},{\"key\":\"a9e2b4c\",\"value\":[]},{\"key\":\"math_fingerprint\",\"value\":\"714f4ce18a5b927ccbff76acaf5c4ab7\"},{\"key\":\"supported_math_functions\",\"value\":\"3f7aaba900fde542f258166cd2b71ef5\"},{\"key\":\"3f76dd27\",\"value\":\"landscape-primary\"},{\"key\":\"5dd48ca0\",\"value\":5},{\"key\":\"4b4b269e68\",\"value\":\"c0e4a069-7bcd-4ee4-ad65-e20238f532ad\"},{\"key\":\"6a62b2a558\",\"value\":\"6b24fdc60569ac7c0c502ba987ca6465\"},{\"key\":\"is_keyless\",\"value\":false},{\"key\":\"client_config__wait_for_settings\",\"value\":false},{\"key\":\"c2d2015\",\"value\":\"29d13b1af8803cb86c2697345d7ea9eb\"},{\"key\":\"43f2d94\",\"value\":[]},{\"key\":\"20c15922\",\"value\":false},{\"key\":\"4f59ca8\",\"value\":null},{\"key\":\"3ea7194\",\"value\":{\"supported\":true,\"formats\":[\"HDR10\",\"HLG\"],\"isHDR\":false}},{\"key\":\"05d3d24\",\"value\":\"40e14a53f514b3d6792e2d8072aa5c37\"},{\"key\":\"speech_default_voice\",\"value\":null},{\"key\":\"speech_voices_hash\",\"value\":null},{\"key\":\"83eb055\",\"value\":\"e6fdada0d2cbf1866f7728e12a99b2b6\"},{\"key\":\"4ca87df3d1\",\"value\":\"MTY1LDAsOCwxNzE7MzU3MSwwLDMxLDE4OzM1NzEsMSwzMSwxODszNTcxLDIsMzEsMTg7\"},{\"key\":\"867e25e5d4\",\"value\":\"Ow==\"},{\"key\":\"d4a306884c\",\"value\":\"Ow==\"},{\"key\":\"vsadsa\",\"value\":1},{\"key\":\"basfas\",\"value\":[0,4395630592]},{\"key\":\"lfasdgs\",\"value\":\"ea52f7b4-74f7-49a1-a502-6b3141f59a30\"}]},{\"key\":\"fe\",\"value\":[\"DNT:unknown\",\"L:en-US\",\"D:24\",\"PR:1\",\"S:1280,900\",\"AS:1280,900\",\"TO:360\",\"SS:true\",\"LS:true\",\"IDB:true\",\"B:false\",\"ODB:false\",\"CPUC:unknown\",\"PK:Linux x86_64\",\"CFP:721427748\",\"FR:false\",\"FOS:false\",\"FB:false\",\"JSF:Arial,Courier,Courier New,Helvetica,MS Gothic,MS PGothic,Times,Times New Roman\",\"P:Chrome PDF Viewer,Chromium PDF Viewer,Microsoft Edge PDF Viewer,PDF Viewer,WebKit built-in PDF\",\"T:0,false,false\",\"H:12\",\"SWF:false\"]},{\"key\":\"ife_hash\",\"value\":\"39da5b547b39ed813ee95c91cb7718f1\"},{\"key\":\"jsbd\",\"value\":\"{\\\"HL\\\":2,\\\"NCE\\\":true,\\\"DT\\\":\\\"\\\",\\\"NWD\\\":\\\"false\\\",\\\"DMTO\\\":1,\\\"DOTO\\\":1}\"},{\"key\":\"c\",\"value\":\"Copyright (c) 2026 Arkose Labs. All Rights Reserved.\"}]"
+    },
+    {
+      "kind": "subtle.importKey",
+      "format": "raw",
+      "alg": "AES-GCM",
+      "extractable": false,
+      "usages": [
+        "encrypt"
+      ],
+      "text": null,
+      "len": 32
+    },
+    {
+      "kind": "subtle.importKey",
+      "format": "spki",
+      "alg": "RSA-OAEP",
+      "extractable": false,
+      "usages": [
+        "encrypt"
+      ],
+      "text": null,
+      "len": 294
+    },
+    {
+      "kind": "subtle.encrypt",
+      "alg": "RSA-OAEP",
+      "keyAlg": "RSA-OAEP",
+      "len": 32,
+      "text": null,
+      "b64": "rh1R2+1d53Ht2JLLaoE6MaCnoKrh4WQbr4Z5v87N7mE="
+    },
+    {
+      "kind": "textencoder",
+      "len": 7070,
+      "text": "[{\"key\":\"api_type\",\"value\":\"js\"},{\"key\":\"f\",\"value\":\"1acbc1d154983391dd09ed60cc565093\"},{\"key\":\"n\",\"value\":\"MTc5NDU2OTg0NA==\"},{\"key\":\"wh\",\"value\":\"661818b1fecc1863892408a1d5b33de6|79169737225f825ee428975a81c22b8f\"},{\"key\":\"enhanced_fp\",\"value\":[{\"key\":\"webgl_extensions\",\"value\":\"ANGLE_instanced_arrays;EXT_blend_minmax;EXT_clip_control;EXT_color_buffer_half_float;EXT_depth_clamp;EXT_disjoint_timer_query;EXT_float_blend;EXT_frag_depth;EXT_polygon_offset_clamp;EXT_texture_compression_bptc;EXT_texture_compression_rgtc;EXT_texture_filter_anisotropic;EXT_texture_mirror_clamp_to_edge;EXT_sRGB;KHR_parallel_shader_compile;OES_element_index_uint;OES_fbo_render_mipmap;OES_standard_derivatives;OES_texture_float;OES_texture_float_linear;OES_texture_half_float;OES_texture_half_float_linear;OES_vertex_array_object;WEBGL_blend_func_extended;WEBGL_color_buffer_float;WEBGL_compressed_texture_astc;WEBGL_compressed_texture_etc;WEBGL_compressed_texture_etc1;WEBGL_compressed_texture_s3tc;WEBGL_compressed_texture_s3tc_srgb;WEBGL_debug_renderer_info;WEBGL_debug_shaders;WEBGL_depth_texture;WEBGL_draw_buffers;WEBGL_lose_context;WEBGL_multi_draw\"},{\"key\":\"webgl_extensions_hash\",\"value\":\"48fc6a044d17691891152ae0f6f290e6\"},{\"key\":\"webgl_renderer\",\"value\":\"WebKit WebGL\"},{\"key\":\"webgl_vendor\",\"value\":\"WebKit\"},{\"key\":\"webgl_version\",\"value\":\"WebGL 1.0 (OpenGL ES 2.0 Chromium)\"},{\"key\":\"webgl_shading_language_version\",\"value\":\"WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)\"},{\"key\":\"webgl_aliased_line_width_range\",\"value\":\"[1, 7.375]\"},{\"key\":\"webgl_aliased_point_size_range\",\"value\":\"[1, 255]\"},{\"key\":\"webgl_antialiasing\",\"value\":\"yes\"},{\"key\":\"webgl_bits\",\"value\":\"8,8,24,8,8,0\"},{\"key\":\"webgl_max_params\",\"value\":\"16,64,16384,1024,16384,32,16384,32,16,32,1024\"},{\"key\":\"webgl_max_viewport_dims\",\"value\":\"[16384, 16384]\"},{\"key\":\"webgl_unmasked_vendor\",\"value\":\"Google Inc. (Intel)\"},{\"key\":\"webgl_unmasked_renderer\",\"value\":\"ANGLE (Intel, Mesa Intel(R) UHD Graphics 630 (CML GT2), OpenGL ES 3.2)\"},{\"key\":\"webgl_vsf_params\",\"value\":\"23,127,127,23,127,127,23,127,127\"},{\"key\":\"webgl_vsi_params\",\"value\":\"0,31,30,0,31,30,0,31,30\"},{\"key\":\"webgl_fsf_params\",\"value\":\"23,127,127,23,127,127,23,127,127\"},{\"key\":\"webgl_fsi_params\",\"value\":\"0,31,30,0,31,30,0,31,30\"},{\"key\":\"webgl_hash_webgl\",\"value\":\"60de4806502f5301485dc00dd8bc2e82\"},{\"key\":\"user_agent_data_brands\",\"value\":\"Not=A?Brand,Google Chrome,Chromium\"},{\"key\":\"user_agent_data_mobile\",\"value\":false},{\"key\":\"navigator_connection_downlink\",\"value\":1.45},{\"key\":\"navigator_connection_downlink_max\",\"value\":null},{\"key\":\"network_info_rtt\",\"value\":100},{\"key\":\"network_info_save_data\",\"value\":false},{\"key\":\"network_info_rtt_type\",\"value\":\"48f60d\"},{\"key\":\"screen_pixel_depth\",\"value\":72},{\"key\":\"navigator_device_memory\",\"value\":32},{\"key\":\"navigator_languages\",\"value\":\"en-US,en\"},{\"key\":\"window_inner_width\",\"value\":1280},{\"key\":\"window_inner_height\",\"value\":900},{\"key\":\"window_outer_width\",\"value\":1288},{\"key\":\"window_outer_height\",\"value\":985},{\"key\":\"browser_detection_firefox\",\"value\":false},{\"key\":\"browser_detection_brave\",\"value\":false},{\"key\":\"9f41a2c\",\"value\":false},{\"key\":\"5c273b3\",\"value\":false},{\"key\":\"ce4046e\",\"value\":false},{\"key\":\"f58835f\",\"value\":\"7c4596d80092c12afd96265e493e7376\"},{\"key\":\"browser_object_checks\",\"value\":\"554838a8451ac36cb977e719e9d6623c\"},{\"key\":\"29s83ih9\",\"value\":\"68934a3e9455fa72420237eb05902327⁣\"},{\"key\":\"audio_codecs\",\"value\":\"{\\\"ogg\\\":\\\"probably\\\",\\\"mp3\\\":\\\"probably\\\",\\\"wav\\\":\\\"probably\\\",\\\"m4a\\\":\\\"maybe\\\",\\\"aac\\\":\\\"probably\\\"}\"},{\"key\":\"audio_codecs_extended_hash\",\"value\":\"805036349642e2569ec299baed02315b\"},{\"key\":\"video_codecs\",\"value\":\"{\\\"ogg\\\":\\\"\\\",\\\"h264\\\":\\\"probably\\\",\\\"webm\\\":\\\"probably\\\",\\\"mpeg4v\\\":\\\"\\\",\\\"mpeg4a\\\":\\\"\\\",\\\"theora\\\":\\\"\\\"}\"},{\"key\":\"video_codecs_extended_hash\",\"value\":\"5648501a58d24ea22ce3773cc234e563\"},{\"key\":\"media_query_dark_mode\",\"value\":false},{\"key\":\"f9bf2db\",\"value\":\"{\\\"pc\\\":\\\"no-preference\\\",\\\"ah\\\":\\\"hover\\\",\\\"ap\\\":\\\"fine\\\",\\\"p\\\":\\\"fine\\\",\\\"h\\\":\\\"hover\\\",\\\"u\\\":\\\"fast\\\",\\\"prm\\\":\\\"no-preference\\\",\\\"prt\\\":\\\"no-preference\\\",\\\"s\\\":\\\"enabled\\\",\\\"fc\\\":\\\"none\\\"}\"},{\"key\":\"headless_browser_phantom\",\"value\":false},{\"key\":\"headless_browser_selenium\",\"value\":false},{\"key\":\"headless_browser_nightmare_js\",\"value\":false},{\"key\":\"862f2c1\",\"value\":4},{\"key\":\"document__referrer\",\"value\":\"\"},{\"key\":\"window__ancestor_origins\",\"value\":[]},{\"key\":\"window__tree_index\",\"value\":[]},{\"key\":\"window__tree_structure\",\"value\":\"[]\"},{\"key\":\"window__location_href\",\"value\":\"http://127.0.0.1:39809/\"},{\"key\":\"client_config__sitedata_location_href\",\"value\":\"http://127.0.0.1:39809/\"},{\"key\":\"client_config__language\",\"value\":null},{\"key\":\"client_config__surl\",\"value\":\"https://client-api.arkoselabs.com\"},{\"key\":\"c8480e29a\",\"value\":\"165ee51d4a3e27bfeee660c40851de9f⁢\"},{\"key\":\"client_config__triggered_inline\",\"value\":false},{\"key\":\"mobile_sdk__is_sdk\",\"value\":false},{\"key\":\"z87b89t5\",\"value\":null},{\"key\":\"audio_fingerprint\",\"value\":\"124.04347527516074\"},{\"key\":\"navigator_battery_charging\",\"value\":true},{\"key\":\"7541c2s\",\"value\":\"eba8b0db4bf7d1f1bfb964d48f6c1784\"},{\"key\":\"1f220c9\",\"value\":\"4265a56c672d7e6aa6193578832fbe69\"},{\"key\":\"a9e2b4c\",\"value\":[]},{\"key\":\"math_fingerprint\",\"value\":\"714f4ce18a5b927ccbff76acaf5c4ab7\"},{\"key\":\"supported_math_functions\",\"value\":\"3f7aaba900fde542f258166cd2b71ef5\"},{\"key\":\"3f76dd27\",\"value\":\"landscape-primary\"},{\"key\":\"5dd48ca0\",\"value\":5},{\"key\":\"4b4b269e68\",\"value\":\"c0e4a069-7bcd-4ee4-ad65-e20238f532ad\"},{\"key\":\"6a62b2a558\",\"value\":\"6b24fdc60569ac7c0c502ba987ca6465\"},{\"key\":\"is_keyless\",\"value\":false},{\"key\":\"client_config__wait_for_settings\",\"value\":false},{\"key\":\"c2d2015\",\"value\":\"29d13b1af8803cb86c2697345d7ea9eb\"},{\"key\":\"43f2d94\",\"value\":[]},{\"key\":\"20c15922\",\"value\":false},{\"key\":\"4f59ca8\",\"value\":null},{\"key\":\"3ea7194\",\"value\":{\"supported\":true,\"formats\":[\"HDR10\",\"HLG\"],\"isHDR\":false}},{\"key\":\"05d3d24\",\"value\":\"40e14a53f514b3d6792e2d8072aa5c37\"},{\"key\":\"speech_default_voice\",\"value\":null},{\"key\":\"speech_voices_hash\",\"value\":null},{\"key\":\"83eb055\",\"value\":\"e6fdada0d2cbf1866f7728e12a99b2b6\"},{\"key\":\"4ca87df3d1\",\"value\":\"MTY1LDAsOCwxNzE7MzU3MSwwLDMxLDE4OzM1NzEsMSwzMSwxODszNTcxLDIsMzEsMTg7\"},{\"key\":\"867e25e5d4\",\"value\":\"Ow==\"},{\"key\":\"d4a306884c\",\"value\":\"Ow==\"},{\"key\":\"vsadsa\",\"value\":1},{\"key\":\"basfas\",\"value\":[0,4395630592]},{\"key\":\"lfasdgs\",\"value\":\"ea52f7b4-74f7-49a1-a502-6b3141f59a30\"}]},{\"key\":\"fe\",\"value\":[\"DNT:unknown\",\"L:en-US\",\"D:24\",\"PR:1\",\"S:1280,900\",\"AS:1280,900\",\"TO:360\",\"SS:true\",\"LS:true\",\"IDB:true\",\"B:false\",\"ODB:false\",\"CPUC:unknown\",\"PK:Linux x86_64\",\"CFP:721427748\",\"FR:false\",\"FOS:false\",\"FB:false\",\"JSF:Arial,Courier,Courier New,Helvetica,MS Gothic,MS PGothic,Times,Times New Roman\",\"P:Chrome PDF Viewer,Chromium PDF Viewer,Microsoft Edge PDF Viewer,PDF Viewer,WebKit built-in PDF\",\"T:0,false,false\",\"H:12\",\"SWF:false\"]},{\"key\":\"ife_hash\",\"value\":\"39da5b547b39ed813ee95c91cb7718f1\"},{\"key\":\"jsbd\",\"value\":\"{\\\"HL\\\":2,\\\"NCE\\\":true,\\\"DT\\\":\\\"\\\",\\\"NWD\\\":\\\"false\\\",\\\"DMTO\\\":1,\\\"DOTO\\\":1}\"},{\"key\":\"c\",\"value\":\"Copyright (c) 2026 Arkose Labs. All Rights Reserved.\"}]"
+    },
+    {
+      "kind": "subtle.encrypt",
+      "alg": "AES-GCM",
+      "keyAlg": "AES-GCM",
+      "len": 7074,
+      "text": "[{\"key\":\"api_type\",\"value\":\"js\"},{\"key\":\"f\",\"value\":\"1acbc1d154983391dd09ed60cc565093\"},{\"key\":\"n\",\"value\":\"MTc5NDU2OTg0NA==\"},{\"key\":\"wh\",\"value\":\"661818b1fecc1863892408a1d5b33de6|79169737225f825ee428975a81c22b8f\"},{\"key\":\"enhanced_fp\",\"value\":[{\"key\":\"webgl_extensions\",\"value\":\"ANGLE_instanced_arrays;EXT_blend_minmax;EXT_clip_control;EXT_color_buffer_half_float;EXT_depth_clamp;EXT_disjoint_timer_query;EXT_float_blend;EXT_frag_depth;EXT_polygon_offset_clamp;EXT_texture_compression_bptc;EXT_texture_compression_rgtc;EXT_texture_filter_anisotropic;EXT_texture_mirror_clamp_to_edge;EXT_sRGB;KHR_parallel_shader_compile;OES_element_index_uint;OES_fbo_render_mipmap;OES_standard_derivatives;OES_texture_float;OES_texture_float_linear;OES_texture_half_float;OES_texture_half_float_linear;OES_vertex_array_object;WEBGL_blend_func_extended;WEBGL_color_buffer_float;WEBGL_compressed_texture_astc;WEBGL_compressed_texture_etc;WEBGL_compressed_texture_etc1;WEBGL_compressed_texture_s3tc;WEBGL_compressed_texture_s3tc_srgb;WEBGL_debug_renderer_info;WEBGL_debug_shaders;WEBGL_depth_texture;WEBGL_draw_buffers;WEBGL_lose_context;WEBGL_multi_draw\"},{\"key\":\"webgl_extensions_hash\",\"value\":\"48fc6a044d17691891152ae0f6f290e6\"},{\"key\":\"webgl_renderer\",\"value\":\"WebKit WebGL\"},{\"key\":\"webgl_vendor\",\"value\":\"WebKit\"},{\"key\":\"webgl_version\",\"value\":\"WebGL 1.0 (OpenGL ES 2.0 Chromium)\"},{\"key\":\"webgl_shading_language_version\",\"value\":\"WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)\"},{\"key\":\"webgl_aliased_line_width_range\",\"value\":\"[1, 7.375]\"},{\"key\":\"webgl_aliased_point_size_range\",\"value\":\"[1, 255]\"},{\"key\":\"webgl_antialiasing\",\"value\":\"yes\"},{\"key\":\"webgl_bits\",\"value\":\"8,8,24,8,8,0\"},{\"key\":\"webgl_max_params\",\"value\":\"16,64,16384,1024,16384,32,16384,32,16,32,1024\"},{\"key\":\"webgl_max_viewport_dims\",\"value\":\"[16384, 16384]\"},{\"key\":\"webgl_unmasked_vendor\",\"value\":\"Google Inc. (Intel)\"},{\"key\":\"webgl_unmasked_renderer\",\"value\":\"ANGLE (Intel, Mesa Intel(R) UHD Graphics 630 (CML GT2), OpenGL ES 3.2)\"},{\"key\":\"webgl_vsf_params\",\"value\":\"23,127,127,23,127,127,23,127,127\"},{\"key\":\"webgl_vsi_params\",\"value\":\"0,31,30,0,31,30,0,31,30\"},{\"key\":\"webgl_fsf_params\",\"value\":\"23,127,127,23,127,127,23,127,127\"},{\"key\":\"webgl_fsi_params\",\"value\":\"0,31,30,0,31,30,0,31,30\"},{\"key\":\"webgl_hash_webgl\",\"value\":\"60de4806502f5301485dc00dd8bc2e82\"},{\"key\":\"user_agent_data_brands\",\"value\":\"Not=A?Brand,Google Chrome,Chromium\"},{\"key\":\"user_agent_data_mobile\",\"value\":false},{\"key\":\"navigator_connection_downlink\",\"value\":1.45},{\"key\":\"navigator_connection_downlink_max\",\"value\":null},{\"key\":\"network_info_rtt\",\"value\":100},{\"key\":\"network_info_save_data\",\"value\":false},{\"key\":\"network_info_rtt_type\",\"value\":\"48f60d\"},{\"key\":\"screen_pixel_depth\",\"value\":72},{\"key\":\"navigator_device_memory\",\"value\":32},{\"key\":\"navigator_languages\",\"value\":\"en-US,en\"},{\"key\":\"window_inner_width\",\"value\":1280},{\"key\":\"window_inner_height\",\"value\":900},{\"key\":\"window_outer_width\",\"value\":1288},{\"key\":\"window_outer_height\",\"value\":985},{\"key\":\"browser_detection_firefox\",\"value\":false},{\"key\":\"browser_detection_brave\",\"value\":false},{\"key\":\"9f41a2c\",\"value\":false},{\"key\":\"5c273b3\",\"value\":false},{\"key\":\"ce4046e\",\"value\":false},{\"key\":\"f58835f\",\"value\":\"7c4596d80092c12afd96265e493e7376\"},{\"key\":\"browser_object_checks\",\"value\":\"554838a8451ac36cb977e719e9d6623c\"},{\"key\":\"29s83ih9\",\"value\":\"68934a3e9455fa72420237eb05902327⁣\"},{\"key\":\"audio_codecs\",\"value\":\"{\\\"ogg\\\":\\\"probably\\\",\\\"mp3\\\":\\\"probably\\\",\\\"wav\\\":\\\"probably\\\",\\\"m4a\\\":\\\"maybe\\\",\\\"aac\\\":\\\"probably\\\"}\"},{\"key\":\"audio_codecs_extended_hash\",\"value\":\"805036349642e2569ec299baed02315b\"},{\"key\":\"video_codecs\",\"value\":\"{\\\"ogg\\\":\\\"\\\",\\\"h264\\\":\\\"probably\\\",\\\"webm\\\":\\\"probably\\\",\\\"mpeg4v\\\":\\\"\\\",\\\"mpeg4a\\\":\\\"\\\",\\\"theora\\\":\\\"\\\"}\"},{\"key\":\"video_codecs_extended_hash\",\"value\":\"5648501a58d24ea22ce3773cc234e563\"},{\"key\":\"media_query_dark_mode\",\"value\":false},{\"key\":\"f9bf2db\",\"value\":\"{\\\"pc\\\":\\\"no-preference\\\",\\\"ah\\\":\\\"hover\\\",\\\"ap\\\":\\\"fine\\\",\\\"p\\\":\\\"fine\\\",\\\"h\\\":\\\"hover\\\",\\\"u\\\":\\\"fast\\\",\\\"prm\\\":\\\"no-preference\\\",\\\"prt\\\":\\\"no-preference\\\",\\\"s\\\":\\\"enabled\\\",\\\"fc\\\":\\\"none\\\"}\"},{\"key\":\"headless_browser_phantom\",\"value\":false},{\"key\":\"headless_browser_selenium\",\"value\":false},{\"key\":\"headless_browser_nightmare_js\",\"value\":false},{\"key\":\"862f2c1\",\"value\":4},{\"key\":\"document__referrer\",\"value\":\"\"},{\"key\":\"window__ancestor_origins\",\"value\":[]},{\"key\":\"window__tree_index\",\"value\":[]},{\"key\":\"window__tree_structure\",\"value\":\"[]\"},{\"key\":\"window__location_href\",\"value\":\"http://127.0.0.1:39809/\"},{\"key\":\"client_config__sitedata_location_href\",\"value\":\"http://127.0.0.1:39809/\"},{\"key\":\"client_config__language\",\"value\":null},{\"key\":\"client_config__surl\",\"value\":\"https://client-api.arkoselabs.com\"},{\"key\":\"c8480e29a\",\"value\":\"165ee51d4a3e27bfeee660c40851de9f⁢\"},{\"key\":\"client_config__triggered_inline\",\"value\":false},{\"key\":\"mobile_sdk__is_sdk\",\"value\":false},{\"key\":\"z87b89t5\",\"value\":null},{\"key\":\"audio_fingerprint\",\"value\":\"124.04347527516074\"},{\"key\":\"navigator_battery_charging\",\"value\":true},{\"key\":\"7541c2s\",\"value\":\"eba8b0db4bf7d1f1bfb964d48f6c1784\"},{\"key\":\"1f220c9\",\"value\":\"4265a56c672d7e6aa6193578832fbe69\"},{\"key\":\"a9e2b4c\",\"value\":[]},{\"key\":\"math_fingerprint\",\"value\":\"714f4ce18a5b927ccbff76acaf5c4ab7\"},{\"key\":\"supported_math_functions\",\"value\":\"3f7aaba900fde542f258166cd2b71ef5\"},{\"key\":\"3f76dd27\",\"value\":\"landscape-primary\"},{\"key\":\"5dd48ca0\",\"value\":5},{\"key\":\"4b4b269e68\",\"value\":\"c0e4a069-7bcd-4ee4-ad65-e20238f532ad\"},{\"key\":\"6a62b2a558\",\"value\":\"6b24fdc60569ac7c0c502ba987ca6465\"},{\"key\":\"is_keyless\",\"value\":false},{\"key\":\"client_config__wait_for_settings\",\"value\":false},{\"key\":\"c2d2015\",\"value\":\"29d13b1af8803cb86c2697345d7ea9eb\"},{\"key\":\"43f2d94\",\"value\":[]},{\"key\":\"20c15922\",\"value\":false},{\"key\":\"4f59ca8\",\"value\":null},{\"key\":\"3ea7194\",\"value\":{\"supported\":true,\"formats\":[\"HDR10\",\"HLG\"],\"isHDR\":false}},{\"key\":\"05d3d24\",\"value\":\"40e14a53f514b3d6792e2d8072aa5c37\"},{\"key\":\"speech_default_voice\",\"value\":null},{\"key\":\"speech_voices_hash\",\"value\":null},{\"key\":\"83eb055\",\"value\":\"e6fdada0d2cbf1866f7728e12a99b2b6\"},{\"key\":\"4ca87df3d1\",\"value\":\"MTY1LDAsOCwxNzE7MzU3MSwwLDMxLDE4OzM1NzEsMSwzMSwxODszNTcxLDIsMzEsMTg7\"},{\"key\":\"867e25e5d4\",\"value\":\"Ow==\"},{\"key\":\"d4a306884c\",\"value\":\"Ow==\"},{\"key\":\"vsadsa\",\"value\":1},{\"key\":\"basfas\",\"value\":[0,4395630592]},{\"key\":\"lfasdgs\",\"value\":\"ea52f7b4-74f7-49a1-a502-6b3141f59a30\"}]},{\"key\":\"fe\",\"value\":[\"DNT:unknown\",\"L:en-US\",\"D:24\",\"PR:1\",\"S:1280,900\",\"AS:1280,900\",\"TO:360\",\"SS:true\",\"LS:true\",\"IDB:true\",\"B:false\",\"ODB:false\",\"CPUC:unknown\",\"PK:Linux x86_64\",\"CFP:721427748\",\"FR:false\",\"FOS:false\",\"FB:false\",\"JSF:Arial,Courier,Courier New,Helvetica,MS Gothic,MS PGothic,Times,Times New Roman\",\"P:Chrome PDF Viewer,Chromium PDF Viewer,Microsoft Edge PDF Viewer,PDF Viewer,WebKit built-in PDF\",\"T:0,false,false\",\"H:12\",\"SWF:false\"]},{\"key\":\"ife_hash\",\"value\":\"39da5b547b39ed813ee95c91cb7718f1\"},{\"key\":\"jsbd\",\"value\":\"{\\\"HL\\\":2,\\\"NCE\\\":true,\\\"DT\\\":\\\"\\\",\\\"NWD\\\":\\\"false\\\",\\\"DMTO\\\":1,\\\"DOTO\\\":1}\"},{\"key\":\"c\",\"value\":\"Copyright (c) 2026 Arkose Labs. All Rights Reserved.\"}]",
+      "b64": "W3sia2V5IjoiYXBpX3R5cGUiLCJ2YWx1ZSI6ImpzIn0seyJrZXkiOiJmIiwidmFsdWUiOiIxYWNiYzFkMTU0OTgzMzkxZGQwOWVkNjBjYzU2NTA5MyJ9LHsia2V5IjoibiIsInZhbHVlIjoiTVRjNU5EVTJPVGcwTkE9PSJ9LHsia2V5Ijoid2giLCJ2YWx1ZSI6IjY2MTgxOGIxZmVjYzE4NjM4OTI0MDhhMWQ1YjMzZGU2fDc5MTY5NzM3MjI1ZjgyNWVlNDI4OTc1YTgxYzIyYjhmIn0seyJrZXkiOiJlbmhhbmNlZF9mcCIsInZhbHVlIjpbeyJrZXkiOiJ3ZWJnbF9leHRlbnNpb25zIiwidmFsdWUiOiJBTkdMRV9pbnN0YW5jZWRfYXJy"
+    },
+    {
+      "kind": "navigator",
+      "name": "userAgent",
+      "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "kind": "fetch",
+      "url": "https://client-api.arkoselabs.com/fc/gt2/public_key/2CB16598-CB82-4CF7-B332-5990DB66F3AB",
+      "method": "POST",
+      "body": "c=K5G17Gi%2FoKLYC%2BVhzgXX%2F0Ufw2FnD2aI6aAMng%3D%3DM2pEIyT4BiEL0wOnPpV8ya7HFXGWuD6YjQG030cu%2BPND7TVG1yGm6xnhVwyTU%2BpuMYG8b6xFaDqj%2Fa4mnkyOvi4rFRq7mS44DvBbWOwwoQhv%2BN1U%2FhSPJu3FpvvtEWM4wVA5ih0AcwG5%2FXq9XWcOabYOLoFGsapq6Apw2csvAs%2B5UH79SrgjY5QG5RKHCMnL4uWbi9Cww99map3MqJyX6Gzoi7w9MAA3kL2sDg0ltYmiizx3oFCWQlQQBNaNG%2Boo%2FRcGrcvwqvpJTDIrE0ttVKZj9PhNgnl%2BMoLhTeMTPykaGHYo%2Br8%2FdSWNo5Ph8AjTfIgOqGD69z0MEMyxj8rQHg%3D%3DWqSGpB1rRcXu2AkE7J1%2F6FkGpntzhc0z7gGFNzS7ZQ9XhPcMcgqQQXedymhB2QNlKy1szF5QcYWr5nZTF3OWOsMJZswRCc1Yt9Yc0DBsEYqv4kzXJc%2F%2FcEJnEMsEzRfH4l0WIng0D%2Buts28YiZ6mNBU2lBe0CDcwcfBq5NWZMTi1b1CDLVEKcL9S8UO8v65OPNYFpRufOMd0AQJRA%2FZEjx1B3vK0ftAIDJeirrBXA6yGPT1X6lH1sCDfaNNK3eiTUjtceMudHzZLhiz%2B0eaqnDKhpXz86jBaOCjQKzm0nap5EXnWOg1OjPlALCUSEnxj8r%2F2ykZTjvoWQge15RfaL6HNIYehUtxqdpbQ2iQPVOZeQC%2B82nIDCx1dXpiPxNpRXEApwgvTYgoM8eHbJ%2FBpincVJ%2B6Yxkk8DrPW3Tc6%2BU%2Fz5ojLVuoWUVEr7ZaInAW922aDvbyT60K3imZcX4K9xp966aJAvwB1upa%2Fd%2BtPoJfddhh2lXbtj40uhNWYlYZe%2BEEaPLP2tKrToLNa1ztwGkuNfy74IpCK3VEmRtOmFmRO39f7LWGtfU4zwCeBUttfOKo%2FSyLUg8XiFH7iVlJZgWL4an%2Bd02e34JBdzTUWFfv28TnWcSre2IIH7xEcPNTArCQKYPtSurbygUlT8WVCUBRfefMCIb1dpoKAlXjxZ%2BGaOmPbMEvXbufQCi7YUs5sGeVLSFiastgP80neo%2BAhjDszWPicct4igVHHbxyVD6oHvX8kUyCTmBxswCvPGX%2BYt1Lfm9uEJeOuUnb7OAApY9OfikzVJA%2FhR4hFdejmS7gVtD8kbg2p9fTSBs3u0RI3%2BtXqqajoGCvdW8Uhrcu6TiSVr1IdS09BY46XYrg4eZfJXAfbl4raY86Nwhm2Bs22o6kZES8RVXUke4O01FWplq3GF4SRaJQFMJOwYAKTPXy5ZXdepzuxZWLDGBbEmSoC6gR6ZvX7p4oviFijZX%2FxbUihJaKzLFJ%2FQSKoRkjKqA%2FVvzPtfMbMYmtiQxta62HHDKUBqN%2B4iWiVcGZ38gbMh1L2Qlkim1vSigrskKWqsW6HBJ%2B0Zge0zHS7QTa5oU4ILS29MHCmbYbCkGVeRK9jRa%2B80oOIB7uxChwlPKYvOC6fL9e9rqU2MB7QIgzR7ie%2BxPbiRuaUyCUl44OXlvWTNwgjosSuQSgOUD5fw59VDJM7dPAtbb5ntbY7PV%2BPUqj3iSYrBVdHDGq8xq8BASyAHh1G5amfpO2UkL2sIzh08Ehh282gGXuOYO0CWLgzgh8iizlfCi3qV0hx1VZDXLgTV8SuTXlUSHfsDr44lmSJHFDY2BLvVCUZFjh%2B76Jxw%2F3YDHACl0YpCA7Jj66KvyiLbi9uykOtjJulsleiUQziLjYBQ6CeLo1cbWOdqgxd5RwEJp0UMr01pNkz%2BlzSfW7F%2F76J4BXSkGazTexA4cSLnwFCL9raPeTgzZNZZ%2B1CfqtuXyuDqu7jxUoOwxY1zXkNiEJZaEAYnZSEwkCPqQliXrF4VZ04h%2BzDRCtIQfL02ga%2B750mPXsxAliLpVhE0szvNsCUCFJ8nA16Ey7IFdZ79vbtr8BPTCcs7NA%2BEs9maPFNK4ysVc9rA5XH5e5uy%2Blbk8PDDXNQR1GSxGKdRpuik44sL2J7oyCzusaCYGLnCB%2BiY0PZbeQRrzJ83ykHbkNKNjTOMdqoL3nh8cKRi9RlTcdwDo4JpIGcOuVijWUk2PYVV6IBiByyZ4xiBBi%2FDBLLB4EGS90gACsIiZ1RvdHLwzupLA7ZZggdsO17JRFdj0Af5Ut19dfoen4YKz%2FjCIToFgafEJKmv2ONlUjNVoxu3OI1%2B4zAkxUJxvGHIiQGKOBn6z2RC58dfRqfh20bLLmGRB3dzHZHRXV3RafJE0lDPNW3aUt9XCruubx3IUC%2BtvsnOX%2BdXML65nhUwuvTQU3DW5zKTWOT1LUANLjET4LICJwHRbbzdeK8mMWeYRgipeemt7RbU0gZ9nbH0tedGj%2Bdh%2BRnHsY0ajaEPTF0MuqeT%2FOFFoVnEuw3eXF3SVqN4cSybDp%2BeNw084fr%2FYZTwqWmDMLqXENzIS3Kx%2BUo0KILItAU5MtFjJ%2BKgw3rqiyrrL%2FGunqTQeYePyeHQX17kvuZngWU1pQnPIZOWWiTs9Uxr8GR%2Fq1hNQkGGqdXLDjzQrhyC1nzAg51m98D3TG1cfkTrBUqqBaQo%2FB0SjH10cXdRngIuzoXClpGq3yrro4cc8%2BRC%2BJYGbXewnTq9%2B0xes3r3iDmUyhWUTMsDpgB%2BtZ25pAfadveO0zVRZrWuL9lAkPQUCBun0VY5DGs7YAISHepf4VuWxfiHZAfTwZLXO%2BrCAVGNC8gz3QRmhUDUDiDpke%2FQkVvr07RPwPPkFniliWJwBa0ALeIkgz%2BGOCvvekvJry3tJQVEXc6wQgWcfTF3Y8Pfw%2FM66o2K%2BoLvHPzfsGmGF%2FU6VHhJioj6i0ouSI8MiNzpbVTSMWPbq5N0IJk%2FrXaEdk3usL%2BMJbloqySna47Gt7JuMKAP6G52F1HD8OVHwMLygZA7x%2BLoPDVwtqWoEebCb0NKU0hWK0Ijcu5VG55g1mpJEhBFdaLTv68elvt1WG3ikUxU59%2FtA76Zy8c9LhkQBQpJMD2ib8xDSN53eyh9OO77szmT0BfXCcVEUU4nEnx5lSsHRKhS7E1QgDANX52EQ5cJj24eiPPvKpXkuJfuTV9sYsXygE5jMUZHapJk7IVLohIWyguevsajA2EW3GftAyDVveGqUuJtvsAEpZgmhbKc1tOAaAjlfhp5mUMkt7BO2NBUn1zL5v5FFHCk795Hc%2BSyV0Pd7f52pfAVJ2KSyupwUAnmd3fKpBvKfPXr9SPeoEsoGTYQcEmbr%2FrhIyTdZDkJrY1FgWhArtRzcT188dtGdaSKYSWS4HluhbswhNdTICVPWlMVUytkOIs54GMQcmQAhrtPkESfz2bsm9%2BcgicDGShhS4kMRXqgC9esxVjQUtlZwF9mlVONPBX3eDugxCwv7E3l%2F%2B1YNB8KD34d0zXOPo3EbrkPL3gUGfNlmmgZAOA2NmGGMt0PdWatd4h%2FalU0Dpu2HjE2kIMCiS6S9GCC4iOhEzSQJQwJfnOdyKD7EEjiYxPVU3gZKHEC22dbJpYPIsULWlzpwUZOiCil%2B%2BXDwj1Sd0bhDr8iY7gn4SrkZ99UeO19tBHCZNJ9IQ71uzQXH1i6CwtkHgofK6uqD3OmaywGH0tqRIuGsRwKRR0Hk8H9ZWClS9RPOwN1MSjKlDf5q7nIn%2BvehPv4%2By7pL4XtEbVq%2BNDP%2FyWYj8vGrarO9DXosIW0iUot36l4EeMg9SwuAcy0BRK440Y35QONU0wfkkT%2FzzUKjGcmnXYTcxkw%2FL9kBMRI2%2FIETwzytpKy0dOdFcwxZXxfi9ICu%2FtLz0exFpvs4ro5O5t6kBt1dqxrjfk6B3z7iNZW3eoD3U7xmLpJPne2zNb2DmuskzK%2BI6BKZJcW%2BR%2B6gSe4MVZqQM4i006wRG61XcgYY%2FgoRYCxl80o36luyfjumpKaIdLXGBSsrREIouK%2Bc0jE%2F7ULfTM0wFc5SyjzCxjpJBZs%2F23PHTUlYHnLlWC7N3QTbjRA%2Bntju15eKAKPjhYTTYIf1g9fqIL5ulw6rpx%2B%2Bg55oc%2Fk6z65kQ60RrndKV7h6ST778ibUuLUwIOcTNwFLYjjktFTyyyUjnk6p8OTRDJr0z8XY%2BUrGm3XB91rOEG2nMctLmQmssUKBwld3RG5qKCg%2Bs3Ei2E51sUTax2ShRS42mv2VYbqiwij9WnSdN%2B8qvfK0LgukoeSbdRqQ1KX0Dz2N1YVYvDgZ2qlLbG1EGopqIdJn8K2f9pWL9oJ65bmJ85OmUJgJ8qXJIBq%2F%2BNCH%2B%2BYLRSxCkM5lwF5RGB%2Bp8ykW%2FHSLrnG7AO1f0LaUzII0mdtqIPc2m7D%2Fkqby7j%2FwHwzk%2BW3sQY4zjFKK%2BGpNlWl2Y04HuEX%2F%2BSjq%2Fz0gWyVm85BsrUGfMGbL2iDreHyEPTMizQZaD6xO4rX0oj1iGGGEO4THlT9NrgWzzu3y8%2FjD1fdcy%2F06IVvCN3fLNRruaBgHxkXahD0WbGWLZscA3QUs3bzNKXWW9GjNweZeJZY%2Fv6V%2FdyySPWDoi9CbvvgQXXqg5dbnVNvE7P%2FNiw2risJtQ9wsHLdKwWs%2FMun9IUqXeZnHMy1BSDucebWDMd%2BVU8Y1cqemfNcs7POMDY%2BfOf1xPIH%2BL%2BssRV%2FDZklz2U5aV796BZdPizm9JTtRn3aFudAHh9YLPNBHgMB%2BBkBDWDQbR1Dc8tLwwQ%2FUBhQ3Prs99rZ6%2B1cAH9GMyAgpM0BMGUQZHjcRz6PKxVewbx8Q%2FvZjw73JB19WkC5cL2KRx%2Fca0dlyBLMUYyOz9qqtpPdOcA57wPd5duaJcbpje80EjVt%2F01mGDvvR%2BsZlvN5qWngEnUQm3cL48N15%2BmsxV68Glf505jzd20oG4y%2BwNCueKujFVTf8vc3JTcnqpnPMsd0z4dyf7AfhqjGXsxb20dz34o1r06HDx4h3G1dRNaFpP%2BTuwpcih8kDrqz6P05il7Ttix69RDHoMTTVAr50f5s71EAHJRUAO3YSKqQC0AMBo7NitAq%2FqpB5K7MPzsSg7rmZSY%2BqAmCZpG7yKWm2XQY%2FXXqxI%2FFDXWn5nsmzxKhG30yprGClU3HTBLNfnIFp5YYZ4u0gulDU0mmXk4hZoubbngn9xe6Eda63pxezq2SiXDhBgROWCpe%2F7gX3nvlQDN2HAnqNcKhz8ir9JEhhODerKsdsZKqTxq6CNX6h8tPapKf3958Pd5HXGIv5rzqmoEYDmjwwrTFP6LHRmMbUU3p4bkKt4oTCSRghzA%2FtIWRGaxqbzTFtgQeBtw2e8Ii3Dbj%2BxHwGwgKvO2RNVGG11YF8GOIktLCTMrUbyGMw%2F14fYWtpF35Q0plWFYB6FnnkYJULYdvdwLmr9%2BfLFmU7IKlY3K5wQK6u3qzTp21ijqUR6mgGbzwFsSaDOkJp%2FGKy4u1thrH%2FHSLBKhiWdD6N1xvRCnQnaFrjieV%2Fqs2HP%2FCVVqtIFhPjHKTAPDjdqrR5R%2FkeLecz3g1MdJ0Nk%2BPrAyrkDfiqAudCCdDLMTA%2BWEcTR8fHdYIrbFg8famF6vkLID8Q55H4aGZdk7PGS%2Fnfq2TminiXV9sG4GIbSVmFA%2F8Y8mskSZkdzd0K%2BQRkT0JAzlV2a3%2B2vAAYtodZyA0e4qHKDg628dkxMCkrQqoDSVDUu0JOQQZ%2Bnw0F8JSTkk8gx4F2CpYCjrFReChdsnEKqntoso69njYUFimT9LI2E68WQrXaJxjWGsSm0cQ16prkVGPD9cOJzCqTQiM0zqfF97E5PK61goq2bXXU0OnD6JrYzeR4cZL279FMTUjodmlN%2F9NaWTQ6UKKLJ0Qpxq74e8JhG4qgUcE7tHwp2Vm%2BMLADKmxt%2BfPNwx5Nrz%2FWxcr2QiYKXArIGBruRbqBj9b%2FYtl8ia4ICw7ICvhbKqaHVswfu0JECmc7mTcKAl2QlP4hdfLI5yqv6ijI5pOb9MuYTcH74ScSsH5PmspTADogUoqpJ9uTbooify4jbz047v4Xy71BVmITm46FIUyjtfCEW2FL5EOgfsZUP5nI%2BczLB9KM29sTAg1zutondWwKJZMu8DNo8nRnA99hNxMgx5jraI9FGHseqyhAqA%2BimCA1e%2BIFATbW0AN0c6AhdSI%2BE7sunIqXl259JzUx1t3YRb5qwYfsSSfjB%2FYJWSO3MdBwGTsxysnUOMlgp5PQwISvVWlbK3%2FhSNeB239qfKD5IU67U%2FgAOo5fEa%2FnZij%2FDWAqEH6vLHpaI9tQKOSi0AD1oTlDhGsgVpxxkflLJbL5ICzW0ordOBY4IZrAyHGsZUjQ65SK2jNSCm91hMNznWb%2FQVQy8JI4ScjSUMqWxsNXbx6s%2BWjtC71iHQsKnbUlGerHBTydsgoqwFdSy%2Bs0hkAirKFvRtKYdRrGrJlLmRcGE%2FSP9tmreybcmVyWYieuyUHG5oPR1crkZ4YrpOoWu9HtGECdB%2FVONoXXZteWkIUnw0QfXTANyWa3K%2Bi0ruNlEv%2FZPY%2FXX0pRu99Nze2sMPN4XqVqdoWLAaXB6NFe2P5gdu5HvCHDNshDECsHA2W6cTHyJ1podHEMRMra2ie6sDw1QcYCp0xctVuosjgANhm8bU6hnE%2BR%2BvMgyvRfsh%2BzJ7nWtziF8F8Xrp4sXq%2FgnUrgSgviYDAdoacxAXACct1C3lb9obbl7Vh9HW3IHwB0A501pChwHNSSmoUG5mmh%2F%2BpLreOOSEcM5S3t4wI4DHPxfpSE8PgOnNRMBtBTmyeRu2vGTfKJorHZLskjTR7EQi1odLhqjRaFo0WBphAyLpWYgG9vI4zuM3bMD55pYGzKEffKdVwHBc2Kx%2FwSNgJefEyQtmEmLA4Os9rMv54IbnsbLwmgOj7GVakUoRcfWaN4yYgWorhxilte0%2BYKzM8qYJGyvAwiMhb8ITXJAho8I2eBN%2FwT8OO32Aa1go1Sw5AE7K7FSn79KyVE3MXWUrWGQPcwtu9hhIzkY4NYY3ZgWYCNIxBbbWfeOCDKg4tZYZQl7S%2Fa3CeFGKPC1ksiCWpAnCbguijz11%2BrDOl6FAxBFPGvrQYB96JajZCHEk4B0XKgimQJcIytQOtyo3d3WMHrxtNMlo4yrJNkHQzJw2%2F14QUlVweZqmMxL40bAVe9IHowQ6DEu9QPkb%2BnMie53ni0eKrNlBvh1ZsFXB3C5vNVSDQfgk1k8Ubo%2Finw3lB%2FDw21%2ByRgLja1Gmi%2B7a54Ssxj8E4IFwcnMjMYMYjfXvjhHpcNY4vPNuhU3lTUHmIc7ynV%2FnjBzilckcBMut%2Fuhp0aZztffGlgFuRVa0c4CzYGLNMd4IG4v7fkv9iEqgSRFPmJiUajdRix0DUlALxjSZSfEHgX6rt2BR74vSVszhHQoUXaL9RiRqALf3DIFB6JSGSZVqUPmXgnwg8SGU7PQtrR17A%2FAJyOJAXb2lKD49CEdWk3fzwOSiD5Ma0g3orZpge7SDEh0Mml%2FkJmyuhRPQQz027rTk0wjNucFGVfmuoHJcTVqiUWEU6BsBzusbhWfxyoumihuppUUgQ%2BfO%2BXrWuvtdQ2nmtSV8iB0OB8SBxgl1qTacrCos5Whqj7NMG06qM6lql7Ewrj6LSmqLZoEI1NsOpacLYCMPxP5EH%2B6hO65A0TAL%2FQIh5M9FQDdP0f9Jib%2FihLS2qutah0K2pKTnXSELtfZVCzVq0ouvTP4wxn%2BJmjwaQsqV0VyarFeUcKysAmjsNkIqNi3JVny9qyvxtc1KV1l3yahZAIbvO%2Bqj%2FdXIzsIQjX6WsNZXp6VGhXWMH97dhY7mFXc4IWlRHv5ymMO%2F6Yj9vWVGb%2FN1nm7YVHwlDoJQgQnXN27IjLtAkdPLe144OurX48vrlI%2FYgZx0Vn9a1iPe0FTZ4EP2IVy7VHs6PWT7XfD9K4ZvHdLWYRm5qexdg6yUXefUAaTU4MegMEkvVLYuNuAeg9o6S4m%2Bncb0SZLJBj0qvBanMbDDqw%2FzJxwkyaOcjOZeRDeE3qSpIX%2F%2Bau1gUCb%2Fe3gGUUeBVcGvND5PbiyD5nIFq%2B5ZmZGAO9HQaJdwdMGs03z9%2FN2KPu%2FJfX9nok1EE6acsjQz96lgANyGrMVPnWmKM9s%2B%2FewwplAGQO8GYdp4dghNgNCFI6WF6z76ypIA%2Bgf5Xh9dLMnjrTxBvfhqKmQcIubMp9mUoKtt1gsamcWx%2BkmuIRrEMdsQlodw89wOKCIA2hJjGCSAWXq9TgNvlJaDjj1uvDT8%2BFdY5mL5LcC4H9aRq79YlqTEKsOb4XSTIgEdPGDHYHeNiDAhiwGZHK%2B%2FPCV6msENRb%2BNPDB1Eu9tReiimzrm%2FhR%2BfOHDXAWdxBWcjC%2FmMEWB7OYtrlhwOKC3pjtij16QueF5ixHD9mnCOyKo38w%2BRIixxFoIMTThgloQkoVvQb8hdZGE5xC9oXg%2BMF%2F3ldtCk7zUQ11bsy6cpmcepQVMgYgC78kfb%2Fl37pOY3e765hyTfgzMmn4vVbxD9%2FGHJc%2BE%2BUHviMyomNFgAiczSClY7b%2FYVFegYc1XvZpIIwJTG8XIosJdsP%2FozgYaQp6eA5%2BCCrvD5mucfd%2FReiE9RXnrNDtwIb8WFxgrQFMgPHxxPhQJ31gdv88OhtpxnBJAItMFFdc6nds7M0N%2BIWAmiGd689ZLJRnmNMH%2Fy4QPGEL9WdktRQ6E0vgbIAsxlZibkt21cTGS76KezzNtLsqKZX6F48pvnM72%2FhTCFo9PSk%2BqM7JNLpTidw0KcmXZCGw2zI8nhnpUhvrxj%2BY%2F4ExkJGiiZ100jv7S5WuqbmNjvS%2FEQwOofOacGwn8Rx1abi4uINMCsYjaie9VMAmaDNh7gjFL9ZSV6nHR%2B1NQHR2zJVEd6%2BHHOcssg3HWpvoAGPzDf3MWHz0PAYY62c%2BjJfBzo8etMRZgSm9XwLWWUCmsoXZGkwrj8rcC8lodCsqrLSQwn8PU61s9LvdumLLueMYY3O5Fsbs9ltHpIqQUbXja7UjuepvsAcscEv%2FUxrCKvEWp2aItVejuK0IBPWduipzS5qCv9vVZJ0ASQmezSu8IoOljOBXqX3IcVcnWJnlh9BNiS9Q3Nu2FTn21HHpY9bNKZyWeZ5S42DqmwescwSo6eag2A%2FDmgkdK4jQXwhsY7rwbNkMr2LTcfk4LVJ0RBhEwaeHysqcQLQqbvLBrcFglEsdCSOeDD5u26jIiLBrYBoHppcP6EzYjRWRLAaygKaMIWT%2FRMIg6v9vS%2B7%2Fl7GilrVgaB%2F6tzXwSAo7kll1ANdv%2Bjn%2B2GG7NdazJdQuTCIGPZBk1ckwv%2BuaKvNE%2BgOPHolwvt%2BslH0PqrXzUecRduBCD7hRoYkwtdSakLvFIU2%2BL4nipkCGrqj%2FgD4CpjoNASgI9gNAbtialGoOsu%2BX2yvKshe6OLxq%2B%2Fbza68W744zivgNxKjhpAPsuOiIq%2F8EWRi7eGocd7TOtMkA1x2HDdGhl0F1h0RZraCTTfjN8bHxaCZZ1osm0U5o9e0xrctgEjbt%2FTPdpnzFB1MwLFB3pkRQPtAETiBXgL7kTLPmcA0LkOrT4lVGql6jcz%2Bslw%2BoLPOZXRYhYLAiM257vBIg0PziXbW8ersRgXeXxFrXkvnkDi5stl0NG54Dw5u92jRDm2kaP8FZMQ14%2Fp1yH%2FqObLcrNaD8YbldDBnrvP8oPddgIZy4c5tIa11hQ%2Fym6FLawe3PqD9B5Zgh39k%2B8PxV6WvLL%2BsWBaAy0EF%2BGjALB7GAQ6He0OQbbeqyWguqu6Z7mUG6IsZ1Tnk5x7WNdQfhDtGNcJuPQE2MyVAZh%2BBe49N4sjuRbG%2BlLKExwKkMBrjLKPmv%2FOor1IE4eKnp5wWlcVR4kFVmwnM61yTKAIJ%2FkXdjmMgE19LoSKMALKaMw9m0G06cy&public_key=2CB16598-CB82-4CF7-B332-5990DB66F3AB&site=http%3A%2F%2F127.0.0.1%3A39809&userbrowser=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F151.0.0.0%20Safari%2F537.36&capi_version=4.5.1&capi_mode=lightbox&style_theme=default&rnd=0.1383026229937272"
+    },
+    {
+      "kind": "xhr",
+      "url": "https://client-api.arkoselabs.com/metrics/ui",
+      "body": "{\"id\":\"c0e4a069-7bcd-4ee4-ad65-e20238f532ad\",\"publicKey\":\"2CB16598-CB82-4CF7-B332-5990DB66F3AB\",\"isKeyless\":false,\"capiVersion\":\"4.5.1\",\"mode\":\"lightbox\",\"suppressed\":false,\"device\":{\"platform\":\"Linux x86_64\",\"language\":\"en-US\",\"connection\":{\"effectiveType\":\"4g\",\"rtt\":100,\"downlink\":1.45}},\"warning\":{},\"error\":{\"error\":\"API_REQUEST_ERROR\",\"source\":\"https://client-api.arkoselabs.com/fc/gt2/public_key/2CB16598-CB82-4CF7-B332-5990DB66F3AB\",\"status\":400,\"name\":\"Error\",\"threwError\":true},\"windowError\":{},\"sessionId\":null,\"isLowPoweredDevice\":false,\"locationOrigin\":\"http://127.0.0.1:39809\",\"locationPathname\":\"/\",\"timers\":{\"onReady\":{\"start\":1794569841704,\"end\":1794569842007,\"diff\":303,\"metrics\":{\"apiExecute\":{\"start\":1794569840702,\"end\":1794569841703,\"diff\":1001},\"settingsLoad\":{\"start\":1794569841705,\"end\":1794569841977,\"diff\":272,\"info\":{\"requestId\":\"v8afASb7xzsL43KJgkP0uja4mudr6bWapjAVWRt0WLe-s9P24mRuRQ==\"}},\"initFPCollection\":{\"start\":1794569841707,\"end\":1794569842007,\"diff\":300},\"fpProcessing\":{\"start\":1794569842007,\"end\":1794569842007,\"diff\":0}}},\"onShown\":{\"start\":1794569844262,\"end\":null,\"diff\":null,\"metrics\":{\"setupSession\":{\"start\":1794569844282,\"end\":null,\"diff\":null,\"info\":{\"requestId\":null}}}},\"onComplete\":{\"start\":1794569844262,\"end\":null,\"diff\":null,\"metrics\":{}}},\"sampled\":false,\"waitForSettings\":false,\"config\":{\"accessibilitySettings\":{\"lockFocusToModal\":true,\"grabFocusToInline\":false},\"apiLoadTime\":null,\"mode\":\"lightbox\",\"data\":null,\"noSuppress\":null,\"styleTheme\":\"default\",\"selector\":\"#trigger\",\"inlineRunOnTrigger\":false,\"enableDirectionalInput\":false,\"isSDK\":false,\"onCompleted\":\"<implemented>\",\"onError\":\"<implemented>\",\"isKeyless\":false}}"
+    }
+  ],
+  "reqs": [
+    {
+      "m": "GET",
+      "u": "https://client-api.arkoselabs.com/v2/2CB16598-CB82-4CF7-B332-5990DB66F3AB/api.js",
+      "body": ""
+    },
+    {
+      "m": "GET",
+      "u": "https://client-api.arkoselabs.com/v2/2CB16598-CB82-4CF7-B332-5990DB66F3AB/settings",
+      "body": ""
+    },
+    {
+      "m": "POST",
+      "u": "https://client-api.arkoselabs.com/fc/gt2/public_key/2CB16598-CB82-4CF7-B332-5990DB66F3AB",
+      "body": "c=K5G17Gi%2FoKLYC%2BVhzgXX%2F0Ufw2FnD2aI6aAMng%3D%3DM2pEIyT4BiEL0wOnPpV8ya7HFXGWuD6YjQG030cu%2BPND7TVG1yGm6xnhVwyTU%2BpuMYG8b6xFaDqj%2Fa4mnkyOvi4rFRq7mS44DvBbWOwwoQhv%2BN1U%2FhSPJu3FpvvtEWM4wVA5ih0AcwG5%2FXq9XWcOabYOLoFGsapq6Apw2csvAs%2B5UH79SrgjY5QG5RKHCMnL4uWbi9Cww99map3MqJyX6Gzoi7w9MAA3kL2sDg0ltYmiizx3oFCWQlQQBNaNG%2Boo%2FRcGrcvwqvpJTDIrE0ttVKZj9PhNgnl%2BMoLhTeMTPykaGHYo%2Br8%2FdSWNo5Ph8AjTfIgOqGD69z0MEMyxj8rQHg%3D%3DWqSGpB1rRcXu2AkE7J1%2F6FkGpntzhc0z7gGFNzS7ZQ9XhPcMcgqQQXedymhB2QNlKy1szF5QcYWr5nZTF3OWOsMJZswRCc1Yt9Yc0DBsEYqv4kzXJc%2F%2FcEJnEMsEzRfH4l0WIng0D%2Buts28YiZ6mNBU2lBe0CDcwcfBq5NWZMTi1b1CDLVEKcL9S8UO8v65OPNYFpRufOMd0AQJRA%2FZEjx1B3vK0ftAIDJeirrBXA6yGPT1X6lH1sCDfaNNK3eiTUjtceMudHzZLhiz%2B0eaqnDKhpXz86jBaOCjQKzm0nap5EXnWOg1OjPlALCUSEnxj8r%2F2ykZTjvoWQge15RfaL6HNIYehUtxqdpbQ2iQPVOZeQC%2B82nIDCx1dXpiPxNpRXEApwgvTYgoM8eHbJ%2FBpincVJ%2B6Yxkk8DrPW3Tc6%2BU%2Fz5ojLVuoWUVEr7ZaInAW922aDvbyT60K3imZcX4K9xp966aJAvwB1upa%2Fd%2BtPoJfddhh2lXbtj40uhNWYlYZe%2BEEaPLP2tKrToLNa1ztwGkuNfy74IpCK3VEmRtOmFmRO39f7LWGtfU4zwCeBUttfOKo%2FSyLUg8XiFH7iVlJZgWL4an%2Bd02e34JBdzTUWFfv28TnWcSre2IIH7xEcPNTArCQKYPtSurbygUlT8WVCUBRfefMCIb1dpoKAlXjxZ%2BGaOmPbMEvXbufQCi7YUs5sGeVLSFiastgP80neo%2BAhjDszWPicct4igVHHbxyVD6oHvX8kUyCTmBxswCvPGX%2BYt1Lfm9uEJeOuUnb7OAApY9OfikzVJA%2FhR4hFdejmS7gVtD8kbg2p9fTSBs3u0RI3%2BtXqqajoGCvdW8Uhrcu6TiSVr1IdS09BY46XYrg4eZfJXAfbl4raY86Nwhm2Bs22o6kZES8RVXUke4O01FWplq3GF4SRaJQFMJOwYAKTPXy5ZXdepzuxZWLDGBbEmSoC6gR6ZvX7p4oviFijZX%2FxbUihJaKzLFJ%2FQSKoRkjKqA%2FVvzPtfMbMYmtiQxta62HHDKUBqN%2B4iWiVcGZ38gbMh1L2Qlkim1vSigrskKWqsW6HBJ%2B0Zge0zHS7QTa5oU4ILS29MHCmbYbCkGVeRK9jRa%2B80oOIB7uxChwlPKYvOC6fL9e9rqU2MB7QIgzR7ie%2BxPbiRuaUyCUl44OXlvWTNwgjosSuQSgOUD5fw59VDJM7dPAtbb5ntbY7PV%2BPUqj3iSYrBVdHDGq8xq8BASyAHh1G5amfpO2UkL2sIzh08Ehh282gGXuOYO0CWLgzgh8iizlfCi3qV0hx1VZDXLgTV8SuTXlUSHfsDr44lmSJHFDY2BLvVCUZFjh%2B76Jxw%2F3YDHACl0YpCA7Jj66KvyiLbi9uykOtjJulsleiUQziLjYBQ6CeLo1cbWOdqgxd5RwEJp0UMr01pNkz%2BlzSfW7F%2F76J4BXSkGazTexA4cSLnwFCL9raPeTgzZNZZ%2B1CfqtuXyuDqu7jxUoOwxY1zXkNiEJZaEAYnZSEwkCPqQliXrF4VZ04h%2BzDRCtIQfL02ga%2B750mPXsxAliLpVhE0szvNsCUCFJ8nA16Ey7IFdZ79vbtr8BPTCcs7NA%2BEs9maPFNK4ysVc9rA5XH5e5uy%2Blbk8PDDXNQR1GSxGKdRpuik44sL2J7oyCzusaCYGLnCB%2BiY0PZbeQRrzJ83ykHbkNKNjTOMdqoL3nh8cKRi9RlTcdwDo4JpIGcOuVijWUk2PYVV6IBiByyZ4xiBBi%2FDBLLB4EGS90gACsIiZ1RvdHLwzupLA7ZZggdsO17JRFdj0Af5Ut19dfoen4YKz%2FjCIToFgafEJKmv2ONlUjNVoxu3OI1%2B4zAkxUJxvGHIiQGKOBn6z2RC58dfRqfh20bLLmGRB3dzHZHRXV3RafJE0lDPNW3aUt9XCruubx3IUC%2BtvsnOX%2BdXML65nhUwuvTQU3DW5zKTWOT1LUANLjET4LICJwHRbbzdeK8mMWeYRgipeemt7RbU0gZ9nbH0tedGj%2Bdh%2BRnHsY0ajaEPTF0MuqeT%2FOFFoVnEuw3eXF3SVqN4cSybDp%2BeNw084fr%2FYZTwqWmDMLqXENzIS3Kx%2BUo0KILItAU5MtFjJ%2BKgw3rqiyrrL%2FGunqTQeYePyeHQX17kvuZngWU1pQnPIZOWWiTs9Uxr8GR%2Fq1hNQkGGqdXLDjzQrhyC1nzAg51m98D3TG1cfkTrBUqqBaQo%2FB0SjH10cXdRngIuzoXClpGq3yrro4cc8%2BRC%2BJYGbXewnTq9%2B0xes3r3iDmUyhWUTMsDpgB%2BtZ25pAfadveO0zVRZrWuL9lAkPQUCBun0VY5DGs7YAISHepf4VuWxfiHZAfTwZLXO%2BrCAVGNC8gz3QRmhUDUDiDpke%2FQkVvr07RPwPPkFniliWJwBa0ALeIkgz%2BGOCvvekvJry3tJQVEXc6wQgWcfTF3Y8Pfw%2FM66o2K%2BoLvHPzfsGmGF%2FU6VHhJioj6i0ouSI8MiNzpbVTSMWPbq5N0IJk%2FrXaEdk3usL%2BMJbloqySna47Gt7JuMKAP6G52F1HD8OVHwMLygZA7x%2BLoPDVwtqWoEebCb0NKU0hWK0Ijcu5VG55g1mpJEhBFdaLTv68elvt1WG3ikUxU59%2FtA76Zy8c9LhkQBQpJMD2ib8xDSN53eyh9OO77szmT0BfXCcVEUU4nEnx5lSsHRKhS7E1QgDANX52EQ5cJj24eiPPvKpXkuJfuTV9sYsXygE5jMUZHapJk7IVLohIWyguevsajA2EW3GftAyDVveGqUuJtvsAEpZgmhbKc1tOAaAjlfhp5mUMkt7BO2NBUn1zL5v5FFHCk795Hc%2BSyV0Pd7f52pfAVJ2KSyupwUAnmd3fKpBvKfPXr9SPeoEsoGTYQcEmbr%2FrhIyTdZDkJrY1FgWhArtRzcT188dtGdaSKYSWS4HluhbswhNdTICVPWlMVUytkOIs54GMQcmQAhrtPkESfz2bsm9%2BcgicDGShhS4kMRXqgC9esxVjQUtlZwF9mlVONPBX3eDugxCwv7E3l%2F%2B1YNB8KD34d0zXOPo3EbrkPL3gUGfNlmmgZAOA2NmGGMt0PdWatd4h%2FalU0Dpu2HjE2kIMCiS6S9GCC4iOhEzSQJQwJfnOdyKD7EEjiYxPVU3gZKHEC22dbJpYPIsULWlzpwUZOiCil%2B%2BXDwj1Sd0bhDr8iY7gn4SrkZ99UeO19tBHCZNJ9IQ71uzQXH1i6CwtkHgofK6uqD3OmaywGH0tqRIuGsRwKRR0Hk8H9ZWClS9RPOwN1MSjKlDf5q7nIn%2BvehPv4%2By7pL4XtEbVq%2BNDP%2FyWYj8vGrarO9DXosIW0iUot36l4EeMg9SwuAcy0BRK440Y35QONU0wfkkT%2FzzUKjGcmnXYTcxkw%2FL9kBMRI2%2FIETwzytpKy0dOdFcwxZXxfi9ICu%2FtLz0exFpvs4ro5O5t6kBt1dqxrjfk6B3z7iNZW3eoD3U7xmLpJPne2zNb2DmuskzK%2BI6BKZJcW%2BR%2B6gSe4MVZqQM4i006wRG61XcgYY%2FgoRYCxl80o36luyfjumpKaIdLXGBSsrREIouK%2Bc0jE%2F7ULfTM0wFc5SyjzCxjpJBZs%2F23PHTUlYHnLlWC7N3QTbjRA%2Bntju15eKAKPjhYTTYIf1g9fqIL5ulw6rpx%2B%2Bg55oc%2Fk6z65kQ60RrndKV7h6ST778ibUuLUwIOcTNwFLYjjktFTyyyUjnk6p8OTRDJr0z8XY%2BUrGm3XB91rOEG2nMctLmQmssUKBwld3RG5qKCg%2Bs3Ei2E51sUTax2ShRS42mv2VYbqiwij9WnSdN%2B8qvfK0LgukoeSbdRqQ1KX0Dz2N1YVYvDgZ2qlLbG1EGopqIdJn8K2f9pWL9oJ65bmJ85OmUJgJ8qXJIBq%2F%2BNCH%2B%2BYLRSxCkM5lwF5RGB%2Bp8ykW%2FHSLrnG7AO1f0LaUzII0mdtqIPc2m7D%2Fkqby7j%2FwHwzk%2BW3sQY4zjFKK%2BGpNlWl2Y04HuEX%2F%2BSjq%2Fz0gWyVm85BsrUGfMGbL2iDreHyEPTMizQZaD6xO4rX0oj1iGGGEO4THlT9NrgWzzu3y8%2FjD1fdcy%2F06IVvCN3fLNRruaBgHxkXahD0WbGWLZscA3QUs3bzNKXWW9GjNweZeJZY%2Fv6V%2FdyySPWDoi9CbvvgQXXqg5dbnVNvE7P%2FNiw2risJtQ9wsHLdKwWs%2FMun9IUqXeZnHMy1BSDucebWDMd%2BVU8Y1cqemfNcs7POMDY%2BfOf1xPIH%2BL%2BssRV%2FDZklz2U5aV796BZdPizm9JTtRn3aFudAHh9YLPNBHgMB%2BBkBDWDQbR1Dc8tLwwQ%2FUBhQ3Prs99rZ6%2B1cAH9GMyAgpM0BMGUQZHjcRz6PKxVewbx8Q%2FvZjw73JB19WkC5cL2KRx%2Fca0dlyBLMUYyOz9qqtpPdOcA57wPd5duaJcbpje80EjVt%2F01mGDvvR%2BsZlvN5qWngEnUQm3cL48N15%2BmsxV68Glf505jzd20oG4y%2BwNCueKujFVTf8vc3JTcnqpnPMsd0z4dyf7AfhqjGXsxb20dz34o1r06HDx4h3G1dRNaFpP%2BTuwpcih8kDrqz6P05il7Ttix69RDHoMTTVAr50f5s71EAHJRUAO3YSKqQC0AMBo7NitAq%2FqpB5K7MPzsSg7rmZSY%2BqAmCZpG7yKWm2XQY%2FXXqxI%2FFDXWn5nsmzxKhG30yprGClU3HTBLNfnIFp5YYZ4u0gulDU0mmXk4hZoubbngn9xe6Eda63pxezq2SiXDhBgROWCpe%2F7gX3nvlQDN2HAnqNcKhz8ir9JEhhODerKsdsZKqTxq6CNX6h8tPapKf3958Pd5HXGIv5rzqmoEYDmjwwrTFP6LHRmMbUU3p4bkKt4oTCSRghzA%2FtIWRGaxqbzTFtgQeBtw2e8Ii3Dbj%2BxHwGwgKvO2RNVGG11YF8GOIktLCTMrUbyGMw%2F14fYWtpF35Q0plWFYB6FnnkYJULYdvdwLmr9%2BfLFmU7IKlY3K5wQK6u3qzTp21ijqUR6mgGbzwFsSaDOkJp%2FGKy4u1thrH%2FHSLBKhiWdD6N1xvRCnQnaFrjieV%2Fqs2HP%2FCVVqtIFhPjHKTAPDjdqrR5R%2FkeLecz3g1MdJ0Nk%2BPrAyrkDfiqAudCCdDLMTA%2BWEcTR8fHdYIrbFg8famF6vkLID8Q55H4aGZdk7PGS%2Fnfq2TminiXV9sG4GIbSVmFA%2F8Y8mskSZkdzd0K%2BQRkT0JAzlV2a3%2B2vAAYtodZyA0e4qHKDg628dkxMCkrQqoDSVDUu0JOQQZ%2Bnw0F8JSTkk8gx4F2CpYCjrFReChdsnEKqntoso69njYUFimT9LI2E68WQrXaJxjWGsSm0cQ16prkVGPD9cOJzCqTQiM0zqfF97E5PK61goq2bXXU0OnD6JrYzeR4cZL279FMTUjodmlN%2F9NaWTQ6UKKLJ0Qpxq74e8JhG4qgUcE7tHwp2Vm%2BMLADKmxt%2BfPNwx5Nrz%2FWxcr2QiYKXArIGBruRbqBj9b%2FYtl8ia4ICw7ICvhbKqaHVswfu0JECmc7mTcKAl2QlP4hdfLI5yqv6ijI5pOb9MuYTcH74ScSsH5PmspTADogUoqpJ9uTbooify4jbz047v4Xy71BVmITm46FIUyjtfCEW2FL5EOgfsZUP5nI%2BczLB9KM29sTAg1zutondWwKJZMu8DNo8nRnA99hNxMgx5jraI9FGHseqyhAqA%2BimCA1e%2BIFATbW0AN0c6AhdSI%2BE7sunIqXl259JzUx1t3YRb5qwYfsSSfjB%2FYJWSO3MdBwGTsxysnUOMlgp5PQwISvVWlbK3%2FhSNeB239qfKD5IU67U%2FgAOo5fEa%2FnZij%2FDWAqEH6vLHpaI9tQKOSi0AD1oTlDhGsgVpxxkflLJbL5ICzW0ordOBY4IZrAyHGsZUjQ65SK2jNSCm91hMNznWb%2FQVQy8JI4ScjSUMqWxsNXbx6s%2BWjtC71iHQsKnbUlGerHBTydsgoqwFdSy%2Bs0hkAirKFvRtKYdRrGrJlLmRcGE%2FSP9tmreybcmVyWYieuyUHG5oPR1crkZ4YrpOoWu9HtGECdB%2FVONoXXZteWkIUnw0QfXTANyWa3K%2Bi0ruNlEv%2FZPY%2FXX0pRu99Nze2sMPN4XqVqdoWLAaXB6NFe2P5gdu5HvCHDNshDECsHA2W6cTHyJ1podHEMRMra2ie6sDw1QcYCp0xctVuosjgANhm8bU6hnE%2BR%2BvMgyvRfsh%2BzJ7nWtziF8F8Xrp4sXq%2FgnUrgSgviYDAdoacxAXACct1C3lb9obbl7Vh9HW3IHwB0A501pChwHNSSmoUG5mmh%2F%2BpLreOOSEcM5S3t4wI4DHPxfpSE8PgOnNRMBtBTmyeRu2vGTfKJorHZLskjTR7EQi1odLhqjRaFo0WBphAyLpWYgG9vI4zuM3bMD55pYGzKEffKdVwHBc2Kx%2FwSNgJefEyQtmEmLA4Os9rMv54IbnsbLwmgOj7GVakUoRcfWaN4yYgWorhxilte0%2BYKzM8qYJGyvAwiMhb8ITXJAho8I2eBN%2FwT8OO32Aa1go1Sw5AE7K7FSn79KyVE3MXWUrWGQPcwtu9hhIzkY4NYY3ZgWYCNIxBbbWfeOCDKg4tZYZQl7S%2Fa3CeFGKPC1ksiCWpAnCbguijz11%2BrDOl6FAxBFPGvrQYB96JajZCHEk4B0XKgimQJcIytQOtyo3d3WMHrxtNMlo4yrJNkHQzJw2%2F14QUlVweZqmMxL40bAVe9IHowQ6DEu9QPkb%2BnMie53ni0eKrNlBvh1ZsFXB3C5vNVSDQfgk1k8Ubo%2Finw3lB%2FDw21%2ByRgLja1Gmi%2B7a54Ssxj8E4IFwcnMjMYMYjfXvjhHpcNY4vPNuhU3lTUHmIc7ynV%2FnjBzilckcBMut%2Fuhp0aZztffGlgFuRVa0c4CzYGLNMd4IG4v7fkv9iEqgSRFPmJiUajdRix0DUlALxjSZSfEHgX6rt2BR74vSVszhHQoUXaL9RiRqALf3DIFB6JSGSZVqUPmXgnwg8SGU7PQtrR17A%2FAJyOJAXb2lKD49CEdWk3fzwOSiD5Ma0g3orZpge7SDEh0Mml%2FkJmyuhRPQQz027rTk0wjNucFGVfmuoHJcTVqiUWEU6BsBzusbhWfxyoumihuppUUgQ%2BfO%2BXrWuvtdQ2nmtSV8iB0OB8SBxgl1qTacrCos5Whqj7NMG06qM6lql7Ewrj6LSmqLZoEI1NsOpacLYCMPxP5EH%2B6hO65A0TAL%2FQIh5M9FQDdP0f9Jib%2FihLS2qutah0K2pKTnXSELtfZVCzVq0ouvTP4wxn%2BJmjwaQsqV0VyarFeUcKysAmjsNkIqNi3JVny9qyvxtc1KV1l3yahZAIbvO%2Bqj%2FdXIzsIQjX6WsNZXp6VGhXWMH97dhY7mFXc4IWlRHv5ymMO%2F6Yj9vWVGb%2FN1nm7YVHwlDoJQgQnXN27IjLtAkdPLe144OurX48vrlI%2FYgZx0Vn9a1iPe0FTZ4EP2IVy7VHs6PWT7XfD9K4ZvHdLWYRm5qexdg6yUXefUAaTU4MegMEkvVLYuNuAeg9o6S4m%2Bncb0SZLJBj0qvBanMbDDqw%2FzJxwkyaOcjOZeRDeE3qSpIX%2F%2Bau1gUCb%2Fe3gGUUeBVcGvND5PbiyD5nIFq%2B5ZmZGAO9HQaJdwdMGs03z9%2FN2KPu%2FJfX9nok1EE6acsjQz96lgANyGrMVPnWmKM9s%2B%2FewwplAGQO8GYdp4dghNgNCFI6WF6z76ypIA%2Bgf5Xh9dLMnjrTxBvfhqKmQcIubMp9mUoKtt1gsamcWx%2BkmuIRrEMdsQlodw89wOKCIA2hJjGCSAWXq9TgNvlJaDjj1uvDT8%2BFdY5mL5LcC4H9aRq79YlqTEKsOb4XSTIgEdPGDHYHeNiDAhiwGZHK%2B%2FPCV6msENRb%2BNPDB1Eu9tReiimzrm%2FhR%2BfOHDXAWdxBWcjC%2FmMEWB7OYtrlhwOKC3pjtij16QueF5ixHD9mnCOyKo38w%2BRIixxFoIMTThgloQkoVvQb8hdZGE5xC9oXg%2BMF%2F3ldtCk7zUQ11bsy6cpmcepQVMgYgC78kfb%2Fl37pOY3e765hyTfgzMmn4vVbxD9%2FGHJc%2BE%2BUHviMyomNFgAiczSClY7b%2FYVFegYc1XvZpIIwJTG8XIosJdsP%2FozgYaQp6eA5%2BCCrvD5mucfd%2FReiE9RXnrNDtwIb8WFxgrQFMgPHxxPhQJ31gdv88OhtpxnBJAItMFFdc6nds7M0N%2BIWAmiGd689ZLJRnmNMH%2Fy4QPGEL9WdktRQ6E0vgbIAsxlZibkt21cTGS76KezzNtLsqKZX6F48pvnM72%2FhTCFo9PSk%2BqM7JNLpTidw0KcmXZCGw2zI8nhnpUhvrxj%2BY%2F4ExkJGiiZ100jv7S5WuqbmNjvS%2FEQwOofOacGwn8Rx1abi4uINMCsYjaie9VMAmaDNh7gjFL9ZSV6nHR%2B1NQHR2zJVEd6%2BHHOcssg3HWpvoAGPzDf3MWHz0PAYY62c%2BjJfBzo8etMRZgSm9XwLWWUCmsoXZGkwrj8rcC8lodCsqrLSQwn8PU61s9LvdumLLueMYY3O5Fsbs9ltHpIqQUbXja7UjuepvsAcscEv%2FUxrCKvEWp2aItVejuK0IBPWduipzS5qCv9vVZJ0ASQmezSu8IoOljOBXqX3IcVcnWJnlh9BNiS9Q3Nu2FTn21HHpY9bNKZyWeZ5S42DqmwescwSo6eag2A%2FDmgkdK4jQXwhsY7rwbNkMr2LTcfk4LVJ0RBhEwaeHysqcQLQqbvLBrcFglEsdCSOeDD5u26jIiLBrYBoHppcP6EzYjRWRLAaygKaMIWT%2FRMIg6v9vS%2B7%2Fl7GilrVgaB%2F6tzXwSAo7kll1ANdv%2Bjn%2B2GG7NdazJdQuTCIGPZBk1ckwv%2BuaKvNE%2BgOPHolwvt%2BslH0PqrXzUecRduBCD7hRoYkwtdSakLvFIU2%2BL4nipkCGrqj%2FgD4CpjoNASgI9gNAbtialGoOsu%2BX2yvKshe6OLxq%2B%2Fbza68W744zivgNxKjhpAPsuOiIq%2F8EWRi7eGocd7TOtMkA1x2HDdGhl0F1h0RZraCTTfjN8bHxaCZZ1osm0U5o9e0xrctgEjbt%2FTPdpnzFB1MwLFB3pkRQPtAETiBXgL7kTLPmcA0LkOrT4lVGql6jcz%2Bslw%2BoLPOZXRYhYLAiM257vBIg0PziXbW8ersRgXeXxFrXkvnkDi5stl0NG54Dw5u92jRDm2kaP8FZMQ14%2Fp1yH%2FqObLcrNaD8YbldDBnrvP8oPddgIZy4c5tIa11hQ%2Fym6FLawe3PqD9B5Zgh39k%2B8PxV6WvLL%2BsWBaAy0EF%2BGjALB7GAQ6He0OQbbeqyWguqu6Z7mUG6IsZ1Tnk5x7WNdQfhDtGNcJuPQE2MyVAZh%2BBe49N4sjuRbG%2BlLKExwKkMBrjLKPmv%2FOor1IE4eKnp5wWlcVR4kFVmwnM61yTKAIJ%2FkXdjmMgE19LoSKMALKaMw9m0G06cy&public_key=2CB16598-CB82-4CF7-B332-5990DB66F3AB&site=http%3A%2F%2F127.0.0.1%3A39809&userbrowser=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F151.0.0.0%20Safari%2F537.36&capi_version=4.5.1&capi_mode=lightbox&style_theme=default&rnd=0.1383026229937272"
+    },
+    {
+      "m": "POST",
+      "u": "https://client-api.arkoselabs.com/metrics/ui",
+      "body": "{\"id\":\"c0e4a069-7bcd-4ee4-ad65-e20238f532ad\",\"publicKey\":\"2CB16598-CB82-4CF7-B332-5990DB66F3AB\",\"isKeyless\":false,\"capiVersion\":\"4.5.1\",\"mode\":\"lightbox\",\"suppressed\":false,\"device\":{\"platform\":\"Linux x86_64\",\"language\":\"en-US\",\"connection\":{\"effectiveType\":\"4g\",\"rtt\":100,\"downlink\":1.45}},\"warning\":{},\"error\":{\"error\":\"API_REQUEST_ERROR\",\"source\":\"https://client-api.arkoselabs.com/fc/gt2/public_key/2CB16598-CB82-4CF7-B332-5990DB66F3AB\",\"status\":400,\"name\":\"Error\",\"threwError\":true},\"windowError\":{},\"sessionId\":null,\"isLowPoweredDevice\":false,\"locationOrigin\":\"http://127.0.0.1:39809\",\"locationPathname\":\"/\",\"timers\":{\"onReady\":{\"start\":1794569841704,\"end\":1794569842007,\"diff\":303,\"metrics\":{\"apiExecute\":{\"start\":1794569840702,\"end\":1794569841703,\"diff\":1001},\"settingsLoad\":{\"start\":1794569841705,\"end\":1794569841977,\"diff\":272,\"info\":{\"requestId\":\"v8afASb7xzsL43KJgkP0uja4mudr6bWapjAVWRt0WLe-s9P24mRuRQ==\"}},\"initFPCollection\":{\"start\":1794569841707,\"end\":1794569842007,\"diff\":300},\"fpProcessing\":{\"start\":1794569842007,\"end\":1794569842007,\"diff\":0}}},\"onShown\":{\"start\":1794569844262,\"end\":null,\"diff\":null,\"metrics\":{\"setupSession\":{\"start\":1794569844282,\"end\":null,\"diff\":null,\"info\":{\"requestId\":null}}}},\"onComplete\":{\"start\":1794569844262,\"end\":null,\"diff\":null,\"metrics\":{}}},\"sampled\":false,\"waitForSettings\":false,\"config\":{\"accessibilitySettings\":{\"lockFocusToModal\":true,\"grabFocusToInline\":false},\"apiLoadTime\":null,\"mode\":\"lightbox\",\"data\":null,\"noSuppress\":null,\"styleTheme\":\"default\",\"selector\":\"#trigger\",\"inlineRunOnTrigger\":false,\"enableDirectionalInput\":false,\"isSDK\":false,\"onCompleted\":\"<implemented>\",\"onError\":\"<implemented>\",\"isKeyless\":false}}"
+    }
+  ],
+  "state": {
+    "ark": {
+      "error": "[object Object]"
+    },
+    "iframes": []
+  }
+}

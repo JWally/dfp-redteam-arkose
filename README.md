@@ -48,6 +48,16 @@ of the crypto boundary yields the full BDA before encryption:
 - **Plaintext side channel**: `POST /metrics/ui` reports platform, language,
   connection class, origin/path, timings and the exact error, unencrypted.
 
+### Read cost ≠ break cost
+
+§7 of the write-up compares this client with a wasm2js SDK (Stytch DFP) and an
+in-house client: the **hardest to read was the easiest to break**, and the
+**easiest to read is unbroken** — because the secret is server-side. Obfuscation
+(deliberate or compiler-accidental) inflates reading time and cannot move the
+gate, since the client always holds the plaintext it is about to encrypt. What
+did move resistance: private key server-side + per-site binding, and not leaking
+per-rule outcomes to the client.
+
 ## Status
 
 - 🟢 Read flow / envelope structure: loader, settings, `gt2` POST, `c` layout

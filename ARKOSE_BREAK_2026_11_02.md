@@ -162,6 +162,72 @@ that surface. Unnamed fields are marked † in the catalog rather than guessed.
 - Good-vs-bad framing: a **good** design — real client crypto sealed to a server
   key, plus a challenge and per-site binding.
 
+## 7. Where the difficulty actually lives — three clients compared
+
+Three device-intelligence clients, three different reasons for being "hard", and
+the hardness does **not** line up with how well each resists tampering. Effort is
+the sibling index's formula (scripts + 4×(work-phases−1) + commits÷4).
+
+| | read cost | break cost | why it was hard | secret lives in |
+|---|---|---|---|---|
+| **Arkose** | ~1.5 days (10 scripts, effort 15) | very high | string-table obfuscation + computed keys + integrity hashes — **deliberate** | server (private key + site binding) |
+| **Stytch DFP** | several days (38 scripts, effort 39.8) | ~zero | C++/Emscripten → **wasm2js**: heap data flow, `dd()` string decoder — **accidental compiler output** | **client** (AES key XOR-masked in its own heap) |
+| **In-house client** (private) | ~2–4 hours | high | nothing — unminified build, literal field arrays | server (signing keys + decision rules) |
+
+Stytch is the instructive case: hardest to read, easiest to break. The AES key is
+recoverable from the page's own memory (`HEAPU8[C+96] XOR table8304`), the
+per-session nonce only blocks verbatim replay, and **tamper-and-reseal works** —
+the sibling repo demonstrates a live modify/re-encrypt/reship. A week of RE paid
+out completely, because the asset was in the client.
+
+Arkose is the mirror: medium to read, and the read does not translate into a
+forge. What stops us is not the string table — it is the private key held
+server-side plus per-site binding. The obfuscation bought time on the *reading*
+step and nothing at the gate.
+
+The in-house client is the third shape: trivially readable (no minification in
+the build output, fields named in prose), yet unbroken for the same structural
+reason as Arkose — the secrets are server-side. Its weakness is not readability
+but **feedback**: it surfaces per-rule outcomes (`navigator.phone-coherence:
+fail (high)`) to the client, which converts a binary oracle into a gradient an
+attacker can hill-climb.
+
+### The transferable rule
+
+**Read cost and break cost are different axes, and only one of them is
+security.** Obfuscation (deliberate or accidental) inflates the first; it cannot
+move the second, because the client always holds the plaintext it is about to
+send. In this sample the ranking by read cost is almost the *inverse* of the
+ranking by resistance:
+
+```
+read:   Stytch  >  Arkose  >  in-house
+break:  Arkose  ≈  in-house  >>  Stytch
+```
+
+What actually moved resistance was **where the secret lives** and **whether the
+origin is bound**. `wh` is the one piece of Arkose obfuscation that does real
+work — it flags naive instrumentation — and even it is a pure function of global
+names, so it is tamper-*evident*, not tamper-*proof* (§5.3).
+
+### If you are building one
+
+1. **Minify, and stop there.** Free, no source maps in prod. String tables and
+   computed key names cost an attacker days and buy nothing at the gate —
+   that is the part of Arkose we defeated by hooking one encoder.
+2. **Do not ship per-rule outcomes.** Return a coarse result plus a request id;
+   keep the breakdown server-side. Removing the gradient is worth more than any
+   obfuscation, and it is the one thing the readable in-house client gets wrong.
+3. **Keep key material server-side and bind to origin.** This is the only
+   structural difference that survived contact in all three cases.
+4. **Do not mistake read-cost for resistance** — and do not treat a consistent
+   client-side integrity hash as evidence of a genuine client.
+
+Caveats: Stytch figures come from the sibling `dfp-redteam-stytch` repo, not
+from work in this one; the in-house client is described from its build output
+(not re-verified against the live asset). Nothing here re-tests those clients —
+it is a comparison of published findings.
+
 ## Scope note
 
 Public key only; no challenge solved; no valid token obtained (cross-site POST
